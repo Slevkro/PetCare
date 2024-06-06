@@ -1,0 +1,11 @@
+Para el ASM podemo utilizar la instalacion que hicimos en clase?
+  Si la podemos usar, como podemos aumentar el espacio en el grupo de discos? 
+    * Drop disk
+    * Add disks 
+    * Create disk group 
+
+Para la creacion de tablespaces como se puede indicar que queremos mas de un 
+datafile con OMF, o eso tambien se gestiona solo?
+
+Vamos a tener una CDB y 3 PDBs, cada PDB se tiene que hacer como un app container? 
+  * De ser el caso los tablespaces y usuarios se crean dentro del codigo del app container?
