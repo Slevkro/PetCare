@@ -1,0 +1,1001 @@
+servicio_id,precio,fecha,descripcion,empleado_id,mascota_id
+1,166.7,2/13/2024,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,38,968
+2,225.3,6/29/2023,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",16,403
+3,325.67,9/3/2023,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,36,212
+4,273.42,9/15/2023,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",22,75
+5,280.4,1/5/2024,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,23,327
+6,456.14,12/4/2023,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",29,536
+7,297.65,8/21/2023,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",12,184
+8,460.29,1/25/2024,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,21,174
+9,448.63,12/12/2023,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,21,336
+10,384.66,2/3/2024,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,49,245
+11,467.24,5/16/2024,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.,3,915
+12,439.29,5/18/2024,Fusce consequat. Nulla nisl. Nunc nisl.,49,936
+13,290.22,5/10/2024,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",46,535
+14,404.63,2/14/2024,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",48,156
+15,220.47,9/13/2023,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,10,253
+16,153.77,5/3/2024,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",23,842
+17,332.39,6/13/2023,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,33,122
+18,347.68,4/2/2024,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,29,451
+19,383.51,4/22/2024,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",3,212
+20,208.87,2/20/2024,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",2,562
+21,316.24,3/8/2024,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",12,786
+22,441.54,5/21/2024,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,24,808
+23,338.23,12/2/2023,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,24,801
+24,301.96,3/3/2024,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",1,296
+25,198.11,3/7/2024,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",47,821
+26,283.62,7/11/2023,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",11,272
+27,284.29,11/16/2023,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",42,828
+28,385.38,2/3/2024,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",39,139
+29,231.48,10/6/2023,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",48,816
+30,334.9,11/3/2023,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",3,566
+31,493.02,11/12/2023,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,15,769
+32,200.35,8/26/2023,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",49,852
+33,385.97,3/1/2024,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",2,410
+34,169.06,7/21/2023,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",41,716
+35,405.81,10/18/2023,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,17,801
+36,338.23,8/22/2023,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",49,883
+37,268.58,8/26/2023,Sed ante. Vivamus tortor. Duis mattis egestas metus.,22,701
+38,388.9,10/4/2023,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,16,495
+39,365.64,6/11/2023,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,22,482
+40,393.46,7/17/2023,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,46,691
+41,393.52,9/9/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",39,162
+42,312.81,9/11/2023,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",36,354
+43,459.68,12/25/2023,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,50,784
+44,440.76,10/11/2023,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",44,757
+45,207.19,2/27/2024,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",38,180
+46,197.36,11/8/2023,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",21,671
+47,479.23,2/12/2024,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,8,893
+48,421.97,12/1/2023,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",37,428
+49,422.17,5/25/2024,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",19,108
+50,297.23,5/22/2024,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,42,664
+51,263.68,9/11/2023,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",25,140
+52,329.01,6/22/2023,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,50,67
+53,263.72,5/16/2024,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",12,895
+54,290.67,11/15/2023,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,41,719
+55,329.92,9/24/2023,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,40,874
+56,268.41,6/11/2023,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",35,968
+57,422.18,11/2/2023,Sed ante. Vivamus tortor. Duis mattis egestas metus.,23,576
+58,355.38,4/3/2024,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",22,316
+59,488.82,4/18/2024,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,19,158
+60,192.49,11/3/2023,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,4,618
+61,338.55,3/30/2024,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",38,745
+62,193.92,9/8/2023,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",33,624
+63,461.76,9/7/2023,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",30,648
+64,309.45,6/19/2023,Phasellus in felis. Donec semper sapien a libero. Nam dui.,2,161
+65,307.0,11/24/2023,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,20,877
+66,233.51,10/24/2023,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,9,627
+67,219.75,11/25/2023,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,32,238
+68,176.05,4/4/2024,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",31,839
+69,243.87,12/15/2023,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,25,253
+70,275.0,12/6/2023,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",21,50
+71,194.3,6/10/2023,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",38,499
+72,402.12,12/5/2023,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,33,920
+73,158.22,10/5/2023,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,34,877
+74,299.22,5/18/2024,In congue. Etiam justo. Etiam pretium iaculis justo.,49,838
+75,301.48,12/11/2023,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",5,395
+76,454.27,12/27/2023,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",23,203
+77,281.51,12/14/2023,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,48,306
+78,380.97,7/5/2023,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,21,189
+79,252.66,1/15/2024,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",25,762
+80,420.66,10/7/2023,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,36,175
+81,253.84,6/21/2023,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",32,41
+82,317.72,4/17/2024,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",28,101
+83,365.13,10/30/2023,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",41,35
+84,413.78,7/26/2023,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,25,336
+85,388.92,7/5/2023,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,48,513
+86,326.53,3/17/2024,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",33,401
+87,172.73,4/21/2024,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,6,62
+88,150.56,9/17/2023,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",24,211
+89,240.71,6/4/2024,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",22,734
+90,401.9,6/27/2023,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,7,488
+91,350.57,8/19/2023,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,13,532
+92,378.71,7/11/2023,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",1,647
+93,402.66,12/7/2023,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,2,536
+94,249.87,2/19/2024,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,12,367
+95,283.48,12/16/2023,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",43,803
+96,338.68,10/3/2023,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,40,484
+97,232.87,1/19/2024,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,24,840
+98,314.6,3/23/2024,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,42,231
+99,275.02,10/30/2023,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",18,44
+100,316.74,11/27/2023,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,16,63
+101,211.48,10/30/2023,Sed ante. Vivamus tortor. Duis mattis egestas metus.,18,498
+102,466.35,3/31/2024,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,18,552
+103,422.05,11/7/2023,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",18,744
+104,379.06,1/12/2024,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,28,91
+105,390.31,7/31/2023,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",13,752
+106,153.05,3/5/2024,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,12,143
+107,260.11,6/18/2023,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",16,990
+108,193.3,4/6/2024,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,3,181
+109,195.73,2/20/2024,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,50,340
+110,427.28,8/24/2023,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,36,589
+111,442.58,1/20/2024,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,17,755
+112,399.67,8/7/2023,Fusce consequat. Nulla nisl. Nunc nisl.,41,552
+113,154.79,4/1/2024,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",20,789
+114,399.57,1/1/2024,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,3,971
+115,214.14,9/12/2023,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,32,266
+116,492.18,12/11/2023,Sed ante. Vivamus tortor. Duis mattis egestas metus.,11,503
+117,412.01,3/11/2024,Phasellus in felis. Donec semper sapien a libero. Nam dui.,36,989
+118,477.68,5/11/2024,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,30,991
+119,161.46,4/15/2024,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",33,316
+120,299.56,4/28/2024,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",31,658
+121,291.03,9/3/2023,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,37,901
+122,273.84,6/30/2023,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,30,611
+123,225.28,3/18/2024,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",38,6
+124,314.27,3/15/2024,Fusce consequat. Nulla nisl. Nunc nisl.,14,778
+125,162.42,3/29/2024,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",23,968
+126,422.02,9/11/2023,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,44,958
+127,333.63,6/30/2023,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",49,382
+128,303.15,3/28/2024,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",44,680
+129,473.85,2/13/2024,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",1,10
+130,216.27,7/27/2023,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.,23,583
+131,287.64,2/5/2024,Sed ante. Vivamus tortor. Duis mattis egestas metus.,28,406
+132,216.04,2/13/2024,Phasellus in felis. Donec semper sapien a libero. Nam dui.,30,869
+133,455.79,12/30/2023,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,20,700
+134,415.61,11/29/2023,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,19,922
+135,347.67,6/3/2024,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,14,332
+136,456.29,11/11/2023,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",48,133
+137,368.29,4/21/2024,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",37,800
+138,291.19,11/30/2023,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,25,682
+139,233.95,12/14/2023,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",1,856
+140,369.16,7/28/2023,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,45,601
+141,445.63,10/24/2023,In congue. Etiam justo. Etiam pretium iaculis justo.,27,315
+142,480.5,2/16/2024,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",22,916
+143,441.36,8/20/2023,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,21,833
+144,439.29,7/29/2023,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,6,328
+145,478.21,5/18/2024,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",46,115
+146,459.52,3/16/2024,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,50,279
+147,414.53,2/15/2024,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,7,892
+148,320.36,10/29/2023,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",41,831
+149,469.4,5/16/2024,In congue. Etiam justo. Etiam pretium iaculis justo.,47,720
+150,369.91,7/20/2023,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,3,467
+151,163.93,9/25/2023,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,11,655
+152,327.46,6/2/2024,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,38,820
+153,388.73,2/2/2024,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",1,357
+154,400.33,8/4/2023,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,42,552
+155,253.5,3/9/2024,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,20,411
+156,212.39,2/21/2024,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",15,149
+157,236.69,4/20/2024,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,35,521
+158,447.81,5/26/2024,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",2,984
+159,319.04,8/17/2023,In congue. Etiam justo. Etiam pretium iaculis justo.,46,213
+160,279.03,4/20/2024,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,7,695
+161,402.08,10/7/2023,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,13,377
+162,203.74,2/3/2024,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",30,235
+163,400.04,9/15/2023,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",46,502
+164,238.65,3/17/2024,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",22,366
+165,301.6,8/19/2023,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,16,246
+166,455.57,3/14/2024,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",42,161
+167,324.23,8/2/2023,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,25,718
+168,220.88,12/15/2023,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,34,523
+169,369.35,4/23/2024,Sed ante. Vivamus tortor. Duis mattis egestas metus.,25,78
+170,229.73,9/6/2023,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",28,897
+171,481.01,6/13/2023,Sed ante. Vivamus tortor. Duis mattis egestas metus.,50,408
+172,248.06,4/19/2024,In congue. Etiam justo. Etiam pretium iaculis justo.,7,274
+173,209.68,1/16/2024,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",20,246
+174,348.19,8/18/2023,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",5,712
+175,167.87,5/12/2024,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",11,817
+176,344.97,11/13/2023,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",13,256
+177,276.92,7/28/2023,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,17,627
+178,469.75,11/24/2023,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",40,973
+179,401.6,2/22/2024,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,2,367
+180,250.8,2/19/2024,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",41,655
+181,228.26,10/5/2023,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",6,192
+182,310.76,1/5/2024,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",32,358
+183,280.2,4/27/2024,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.,41,905
+184,318.19,2/19/2024,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",8,255
+185,264.93,10/15/2023,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,26,185
+186,298.99,3/27/2024,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",42,928
+187,276.75,8/5/2023,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",22,766
+188,283.21,7/31/2023,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,40,506
+189,213.35,10/28/2023,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,26,65
+190,485.83,11/24/2023,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",27,973
+191,266.03,8/30/2023,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,40,817
+192,296.63,9/8/2023,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,13,388
+193,383.92,11/20/2023,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,30,56
+194,271.82,7/19/2023,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,43,647
+195,244.59,11/6/2023,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",23,221
+196,216.78,4/18/2024,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",39,714
+197,497.17,4/23/2024,In congue. Etiam justo. Etiam pretium iaculis justo.,18,605
+198,389.94,1/26/2024,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",17,25
+199,338.22,11/8/2023,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",46,281
+200,235.64,3/28/2024,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,41,665
+201,474.82,10/5/2023,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,5,326
+202,170.05,8/24/2023,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",47,143
+203,390.42,5/2/2024,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",42,674
+204,493.12,2/28/2024,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.,43,30
+205,301.83,3/18/2024,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,9,710
+206,486.2,7/7/2023,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",42,37
+207,324.26,2/15/2024,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",27,877
+208,362.84,6/12/2023,In congue. Etiam justo. Etiam pretium iaculis justo.,46,92
+209,402.97,1/5/2024,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,30,608
+210,330.84,12/5/2023,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",12,428
+211,362.53,10/16/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",14,53
+212,206.36,5/22/2024,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",47,576
+213,469.55,8/26/2023,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",32,781
+214,326.52,5/29/2024,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,25,745
+215,480.85,7/7/2023,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,50,711
+216,392.98,2/1/2024,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,45,85
+217,252.03,2/15/2024,Phasellus in felis. Donec semper sapien a libero. Nam dui.,6,514
+218,445.82,4/19/2024,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,19,445
+219,260.27,2/28/2024,Sed ante. Vivamus tortor. Duis mattis egestas metus.,2,405
+220,156.43,2/28/2024,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",13,978
+221,277.9,7/9/2023,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",26,935
+222,411.64,2/13/2024,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",7,740
+223,298.08,5/31/2024,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",48,105
+224,451.13,3/5/2024,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",23,426
+225,220.56,7/30/2023,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,48,113
+226,330.17,11/29/2023,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,3,390
+227,289.58,12/18/2023,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",18,420
+228,434.72,3/12/2024,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",36,776
+229,238.64,5/30/2024,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",41,722
+230,195.38,8/10/2023,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,39,840
+231,478.46,1/28/2024,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",37,634
+232,260.85,6/26/2023,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",7,855
+233,404.48,12/31/2023,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",3,142
+234,210.51,8/29/2023,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",37,272
+235,485.18,8/15/2023,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",39,743
+236,282.08,6/20/2023,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",42,192
+237,213.44,2/1/2024,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,4,667
+238,172.61,8/25/2023,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",21,287
+239,380.52,7/17/2023,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,18,352
+240,227.92,6/21/2023,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,49,708
+241,348.0,10/19/2023,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,27,399
+242,359.31,6/9/2023,Phasellus in felis. Donec semper sapien a libero. Nam dui.,15,112
+243,341.59,4/25/2024,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",37,475
+244,323.05,11/28/2023,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",4,801
+245,393.06,7/24/2023,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",48,943
+246,294.1,6/18/2023,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",12,947
+247,458.81,8/22/2023,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,5,490
+248,362.37,6/3/2024,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",8,721
+249,493.09,3/28/2024,Phasellus in felis. Donec semper sapien a libero. Nam dui.,43,851
+250,396.08,2/19/2024,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",40,145
+251,200.86,3/19/2024,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,32,592
+252,464.0,2/27/2024,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",15,488
+253,150.15,4/25/2024,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",24,484
+254,206.12,5/22/2024,In congue. Etiam justo. Etiam pretium iaculis justo.,27,79
+255,341.19,3/19/2024,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,23,877
+256,316.22,12/6/2023,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,23,230
+257,495.46,4/7/2024,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,20,202
+258,320.38,6/18/2023,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,17,881
+259,166.71,3/12/2024,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",18,637
+260,381.69,7/26/2023,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",11,472
+261,329.73,9/14/2023,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,24,354
+262,476.65,3/17/2024,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,40,980
+263,484.05,12/22/2023,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,19,709
+264,152.67,7/28/2023,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",31,783
+265,369.39,10/23/2023,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",20,291
+266,349.36,3/23/2024,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,41,81
+267,320.27,1/25/2024,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",11,53
+268,344.69,2/26/2024,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",16,231
+269,239.64,12/26/2023,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,31,216
+270,486.28,2/2/2024,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",13,24
+271,331.06,7/13/2023,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",25,609
+272,212.82,2/25/2024,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",11,646
+273,327.53,10/10/2023,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",10,67
+274,296.35,1/26/2024,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,23,757
+275,373.78,6/16/2023,Phasellus in felis. Donec semper sapien a libero. Nam dui.,27,161
+276,325.32,7/23/2023,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",9,192
+277,473.77,12/6/2023,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",8,781
+278,152.73,5/8/2024,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,48,24
+279,358.59,1/25/2024,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,2,999
+280,481.86,1/23/2024,In congue. Etiam justo. Etiam pretium iaculis justo.,44,637
+281,331.96,10/1/2023,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",38,726
+282,365.56,11/7/2023,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",11,538
+283,479.14,11/14/2023,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,35,424
+284,195.36,1/20/2024,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",43,92
+285,469.65,9/26/2023,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",37,228
+286,282.69,4/8/2024,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",34,380
+287,185.36,5/3/2024,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,42,685
+288,236.41,7/20/2023,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",40,184
+289,220.8,5/7/2024,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",6,861
+290,363.34,10/29/2023,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,36,654
+291,216.06,12/10/2023,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,18,686
+292,345.7,6/15/2023,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,12,460
+293,346.72,8/6/2023,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",49,318
+294,261.32,2/3/2024,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",36,987
+295,445.32,3/12/2024,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,3,987
+296,440.73,10/24/2023,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",9,169
+297,494.76,9/26/2023,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",30,793
+298,302.41,2/14/2024,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,14,613
+299,300.47,11/17/2023,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,46,443
+300,430.98,1/23/2024,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,45,978
+301,447.38,8/4/2023,Sed ante. Vivamus tortor. Duis mattis egestas metus.,31,446
+302,308.21,4/14/2024,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",17,791
+303,221.02,4/2/2024,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",7,242
+304,350.36,5/18/2024,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",17,812
+305,154.72,2/12/2024,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",35,622
+306,306.63,11/21/2023,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",4,640
+307,480.56,3/27/2024,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,50,86
+308,257.38,11/17/2023,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",17,387
+309,355.05,12/4/2023,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",18,628
+310,244.75,1/5/2024,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",5,624
+311,270.8,7/20/2023,In congue. Etiam justo. Etiam pretium iaculis justo.,1,533
+312,463.4,5/8/2024,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",28,222
+313,427.4,5/3/2024,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",8,573
+314,289.91,9/14/2023,In congue. Etiam justo. Etiam pretium iaculis justo.,2,735
+315,253.11,7/11/2023,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,9,377
+316,169.88,7/10/2023,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,10,62
+317,482.43,6/3/2024,Sed ante. Vivamus tortor. Duis mattis egestas metus.,15,780
+318,252.87,6/10/2023,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,42,433
+319,376.96,6/26/2023,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.,20,210
+320,241.16,8/2/2023,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",31,384
+321,426.52,4/16/2024,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,3,554
+322,438.25,8/26/2023,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,22,445
+323,472.18,6/24/2023,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,46,571
+324,469.0,6/20/2023,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,3,514
+325,387.55,7/13/2023,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",27,444
+326,396.89,7/8/2023,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,14,733
+327,492.31,7/29/2023,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,43,803
+328,288.4,11/2/2023,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",24,463
+329,438.47,6/3/2024,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",29,484
+330,420.3,8/18/2023,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",5,220
+331,388.58,10/4/2023,Fusce consequat. Nulla nisl. Nunc nisl.,26,344
+332,218.74,7/27/2023,In congue. Etiam justo. Etiam pretium iaculis justo.,50,634
+333,346.89,6/24/2023,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,4,266
+334,345.66,12/4/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",36,32
+335,191.45,12/3/2023,Fusce consequat. Nulla nisl. Nunc nisl.,8,187
+336,460.28,9/12/2023,Sed ante. Vivamus tortor. Duis mattis egestas metus.,48,67
+337,347.62,2/18/2024,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,18,708
+338,417.26,9/5/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",39,680
+339,234.81,5/19/2024,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",36,880
+340,388.52,6/6/2024,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",28,249
+341,394.83,1/27/2024,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",28,317
+342,264.3,3/12/2024,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",36,626
+343,416.25,2/13/2024,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",8,607
+344,432.51,5/6/2024,Phasellus in felis. Donec semper sapien a libero. Nam dui.,46,326
+345,437.1,7/10/2023,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",10,444
+346,472.49,12/23/2023,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",39,790
+347,319.9,12/4/2023,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",28,733
+348,346.24,1/10/2024,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",45,43
+349,244.72,3/25/2024,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",31,913
+350,349.32,4/22/2024,In congue. Etiam justo. Etiam pretium iaculis justo.,41,641
+351,376.23,2/15/2024,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,43,359
+352,406.1,8/19/2023,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,13,663
+353,416.52,3/12/2024,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",27,291
+354,210.92,10/29/2023,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,2,678
+355,439.11,5/14/2024,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",48,270
+356,396.49,5/7/2024,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,11,719
+357,305.22,8/30/2023,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",14,254
+358,176.61,2/18/2024,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,47,689
+359,403.46,9/1/2023,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",14,562
+360,328.47,11/16/2023,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",21,392
+361,250.61,2/9/2024,Fusce consequat. Nulla nisl. Nunc nisl.,16,713
+362,188.38,1/10/2024,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,8,350
+363,409.17,4/23/2024,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",15,18
+364,290.83,11/8/2023,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,24,161
+365,287.91,3/20/2024,In congue. Etiam justo. Etiam pretium iaculis justo.,7,134
+366,458.23,2/24/2024,Phasellus in felis. Donec semper sapien a libero. Nam dui.,40,373
+367,464.91,4/17/2024,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",26,944
+368,287.56,4/18/2024,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,44,268
+369,483.85,1/11/2024,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,44,818
+370,156.79,4/30/2024,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",8,9
+371,459.14,10/16/2023,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,50,92
+372,172.1,6/26/2023,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",1,839
+373,175.88,11/11/2023,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",43,144
+374,414.35,5/14/2024,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,24,712
+375,206.91,12/30/2023,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,15,339
+376,320.3,11/2/2023,Fusce consequat. Nulla nisl. Nunc nisl.,27,26
+377,269.65,9/3/2023,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",25,825
+378,408.38,6/17/2023,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",43,797
+379,173.82,1/4/2024,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,5,287
+380,324.62,2/28/2024,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",25,935
+381,318.1,12/12/2023,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,6,834
+382,237.98,7/23/2023,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",9,925
+383,302.43,3/24/2024,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,5,31
+384,341.96,4/19/2024,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",35,738
+385,334.36,11/15/2023,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",5,279
+386,494.73,6/2/2024,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,29,209
+387,472.63,7/21/2023,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,4,646
+388,411.46,11/19/2023,Phasellus in felis. Donec semper sapien a libero. Nam dui.,27,756
+389,495.1,5/31/2024,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,24,918
+390,411.19,1/24/2024,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",5,243
+391,335.07,5/13/2024,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",8,90
+392,224.36,3/8/2024,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",22,814
+393,239.49,5/27/2024,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",17,258
+394,226.39,5/10/2024,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",6,599
+395,252.99,4/1/2024,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",29,201
+396,417.29,8/4/2023,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,1,139
+397,327.81,12/10/2023,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,42,744
+398,368.87,3/16/2024,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",40,427
+399,435.68,8/20/2023,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,39,717
+400,331.36,9/5/2023,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",4,113
+401,170.6,3/29/2024,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,35,345
+402,166.43,9/7/2023,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,12,727
+403,359.04,9/3/2023,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,35,385
+404,444.16,9/2/2023,Phasellus in felis. Donec semper sapien a libero. Nam dui.,31,849
+405,354.31,5/27/2024,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",9,782
+406,218.47,12/4/2023,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,12,949
+407,364.73,1/28/2024,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",28,840
+408,151.1,6/1/2024,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",15,361
+409,202.38,7/20/2023,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",25,143
+410,270.11,10/21/2023,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,49,668
+411,485.45,8/20/2023,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,22,368
+412,393.8,2/22/2024,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,36,500
+413,412.95,8/20/2023,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",17,94
+414,202.8,2/3/2024,Fusce consequat. Nulla nisl. Nunc nisl.,4,924
+415,222.09,1/29/2024,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",49,816
+416,301.76,5/10/2024,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",37,648
+417,473.18,12/23/2023,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",36,258
+418,364.37,3/13/2024,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",35,916
+419,228.72,9/18/2023,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",39,362
+420,176.49,7/1/2023,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,25,857
+421,404.94,2/26/2024,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",25,303
+422,244.07,2/18/2024,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",41,985
+423,159.26,8/9/2023,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",38,554
+424,313.87,10/23/2023,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,37,783
+425,323.75,5/14/2024,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,29,981
+426,410.62,2/15/2024,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",28,724
+427,384.93,2/14/2024,Phasellus in felis. Donec semper sapien a libero. Nam dui.,5,873
+428,451.63,11/16/2023,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,43,393
+429,340.1,7/10/2023,Fusce consequat. Nulla nisl. Nunc nisl.,34,823
+430,378.95,5/28/2024,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",34,727
+431,195.02,4/26/2024,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",48,436
+432,482.71,4/3/2024,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,6,675
+433,203.7,5/18/2024,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",14,999
+434,458.99,6/21/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",4,879
+435,366.1,7/31/2023,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,4,565
+436,395.8,10/28/2023,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",7,901
+437,230.08,7/9/2023,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",42,212
+438,333.39,9/23/2023,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",50,298
+439,195.65,3/24/2024,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,16,662
+440,441.7,4/4/2024,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",26,679
+441,367.39,2/4/2024,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",24,26
+442,304.77,3/3/2024,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",11,708
+443,204.48,9/9/2023,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,5,609
+444,446.94,4/7/2024,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",4,429
+445,300.82,6/7/2023,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",32,129
+446,324.99,3/17/2024,Fusce consequat. Nulla nisl. Nunc nisl.,8,374
+447,417.62,10/10/2023,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",29,888
+448,165.74,1/16/2024,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",15,755
+449,311.57,7/13/2023,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",27,756
+450,160.73,12/20/2023,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,50,294
+451,335.45,4/3/2024,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",6,540
+452,420.67,6/29/2023,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,1,159
+453,265.82,5/21/2024,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",47,114
+454,202.2,1/23/2024,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",31,519
+455,385.75,12/13/2023,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",9,681
+456,266.76,7/16/2023,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",36,670
+457,350.58,3/26/2024,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",42,755
+458,323.84,12/24/2023,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,3,809
+459,269.48,1/2/2024,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",11,677
+460,180.75,2/27/2024,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,22,759
+461,262.78,2/17/2024,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",45,327
+462,359.96,2/20/2024,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,10,181
+463,319.51,3/1/2024,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",13,621
+464,319.37,11/1/2023,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",43,163
+465,431.21,3/21/2024,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",28,799
+466,356.05,3/9/2024,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",23,42
+467,247.76,8/15/2023,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,40,119
+468,484.78,9/2/2023,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,42,604
+469,384.58,7/25/2023,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,48,604
+470,379.85,1/2/2024,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,27,118
+471,487.89,7/5/2023,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,39,27
+472,430.38,5/25/2024,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",7,581
+473,356.29,8/14/2023,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",29,324
+474,208.16,3/28/2024,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,49,500
+475,229.83,11/20/2023,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",27,118
+476,294.95,11/12/2023,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,8,655
+477,361.78,5/13/2024,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",21,887
+478,454.56,5/22/2024,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",47,267
+479,329.09,3/30/2024,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",7,622
+480,313.03,4/23/2024,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,29,803
+481,199.79,1/5/2024,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,15,910
+482,190.29,11/30/2023,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,43,799
+483,343.28,6/24/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",40,408
+484,356.82,7/27/2023,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,17,468
+485,423.78,4/13/2024,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,49,811
+486,395.16,3/20/2024,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",10,345
+487,251.17,7/29/2023,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,33,398
+488,384.2,10/18/2023,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,2,517
+489,367.37,8/2/2023,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",40,154
+490,174.96,7/31/2023,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,18,159
+491,471.86,3/21/2024,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",38,553
+492,308.82,10/23/2023,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",29,921
+493,283.11,1/2/2024,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",21,997
+494,471.29,2/21/2024,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",38,406
+495,301.19,11/15/2023,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",34,920
+496,241.47,6/8/2023,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",36,25
+497,368.55,7/28/2023,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",45,235
+498,156.99,12/10/2023,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",17,51
+499,229.61,10/20/2023,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",15,450
+500,381.98,9/1/2023,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",3,232
+501,270.46,2/10/2024,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",32,654
+502,210.03,1/31/2024,Phasellus in felis. Donec semper sapien a libero. Nam dui.,25,808
+503,481.6,8/11/2023,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",19,75
+504,252.06,12/30/2023,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,15,566
+505,420.97,7/20/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",29,991
+506,152.21,4/24/2024,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",36,147
+507,247.05,10/8/2023,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",32,679
+508,222.78,9/22/2023,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,24,610
+509,329.78,2/27/2024,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",47,451
+510,468.7,9/24/2023,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",9,281
+511,245.51,11/7/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",47,992
+512,375.85,1/6/2024,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",44,523
+513,250.89,9/7/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",33,843
+514,352.69,1/5/2024,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,11,793
+515,332.68,12/4/2023,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,32,982
+516,150.56,9/25/2023,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,37,301
+517,381.19,5/7/2024,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,35,146
+518,418.76,5/20/2024,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",10,580
+519,169.6,9/26/2023,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",32,504
+520,350.17,6/20/2023,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,2,493
+521,225.4,10/1/2023,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,40,442
+522,497.22,6/17/2023,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",16,435
+523,252.33,3/20/2024,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,47,700
+524,441.26,6/5/2024,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",47,642
+525,225.73,11/22/2023,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",18,557
+526,375.99,10/12/2023,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,50,86
+527,498.81,9/22/2023,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,9,267
+528,380.57,3/3/2024,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,31,512
+529,209.75,11/24/2023,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,46,750
+530,421.22,6/15/2023,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,27,780
+531,452.49,11/25/2023,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",4,623
+532,276.72,12/15/2023,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",49,318
+533,415.95,3/29/2024,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,3,131
+534,162.26,3/23/2024,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",18,694
+535,254.93,1/24/2024,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,27,51
+536,498.54,1/4/2024,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",31,788
+537,499.99,4/4/2024,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,49,540
+538,497.66,6/19/2023,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,27,834
+539,216.47,10/6/2023,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,31,617
+540,487.71,12/13/2023,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",31,895
+541,406.15,4/2/2024,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",30,414
+542,400.52,4/14/2024,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,2,590
+543,191.25,2/29/2024,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",19,335
+544,225.44,8/26/2023,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",20,756
+545,408.54,11/19/2023,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,16,430
+546,448.13,6/8/2023,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,9,245
+547,334.64,1/2/2024,Phasellus in felis. Donec semper sapien a libero. Nam dui.,25,378
+548,237.92,5/25/2024,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",13,337
+549,487.07,11/14/2023,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",41,635
+550,464.51,11/6/2023,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,3,607
+551,359.97,11/12/2023,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",17,219
+552,377.25,2/24/2024,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",10,801
+553,463.67,5/19/2024,In congue. Etiam justo. Etiam pretium iaculis justo.,23,433
+554,302.55,12/28/2023,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",29,408
+555,201.12,10/29/2023,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",15,194
+556,243.86,9/13/2023,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",48,752
+557,289.65,10/31/2023,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",38,668
+558,238.17,5/16/2024,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",4,886
+559,475.59,9/26/2023,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",5,931
+560,153.15,7/19/2023,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",31,618
+561,260.85,5/6/2024,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,13,622
+562,332.22,11/24/2023,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,19,714
+563,247.82,11/3/2023,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",31,937
+564,441.83,3/14/2024,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,14,407
+565,184.21,4/3/2024,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,41,342
+566,297.61,8/12/2023,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",30,153
+567,359.09,6/22/2023,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,35,874
+568,301.3,4/6/2024,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",47,655
+569,337.97,8/24/2023,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,16,268
+570,187.97,10/2/2023,Fusce consequat. Nulla nisl. Nunc nisl.,25,280
+571,196.83,5/1/2024,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",37,742
+572,174.91,4/21/2024,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",42,803
+573,174.31,2/6/2024,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",37,80
+574,301.35,7/14/2023,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,23,739
+575,155.54,2/1/2024,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,18,295
+576,473.63,1/24/2024,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,20,988
+577,383.6,2/23/2024,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",43,971
+578,477.68,6/26/2023,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",1,363
+579,358.13,5/25/2024,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",10,444
+580,164.42,9/12/2023,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,33,470
+581,327.81,3/15/2024,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",18,821
+582,208.41,12/17/2023,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",34,971
+583,482.16,4/19/2024,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",18,631
+584,357.18,12/14/2023,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,35,839
+585,380.15,12/16/2023,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,10,131
+586,312.1,10/28/2023,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",4,726
+587,473.13,7/28/2023,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",2,394
+588,340.65,12/3/2023,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,5,575
+589,436.01,1/8/2024,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,18,302
+590,358.24,4/9/2024,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",3,955
+591,383.72,12/5/2023,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",2,772
+592,366.59,12/7/2023,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,13,842
+593,470.28,12/2/2023,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,31,692
+594,236.91,10/1/2023,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",1,756
+595,486.88,8/8/2023,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",38,894
+596,179.74,3/10/2024,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",32,467
+597,236.29,1/9/2024,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",38,229
+598,438.84,5/31/2024,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",13,321
+599,331.93,3/14/2024,Phasellus in felis. Donec semper sapien a libero. Nam dui.,25,12
+600,492.8,7/17/2023,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,35,753
+601,285.13,2/23/2024,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,13,353
+602,425.09,12/23/2023,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,19,317
+603,378.11,3/12/2024,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",22,309
+604,453.57,1/3/2024,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",47,89
+605,437.28,2/10/2024,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,32,366
+606,251.99,7/24/2023,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,16,126
+607,471.47,4/16/2024,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,25,243
+608,470.21,12/6/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",33,57
+609,315.4,2/26/2024,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",40,133
+610,369.07,4/26/2024,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,39,993
+611,202.02,6/3/2024,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",10,24
+612,273.75,10/11/2023,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",39,171
+613,341.17,9/30/2023,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",12,705
+614,373.6,2/3/2024,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,14,893
+615,443.47,1/13/2024,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,7,642
+616,486.33,4/22/2024,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",34,566
+617,478.59,4/7/2024,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.,5,540
+618,273.71,2/10/2024,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,49,62
+619,365.17,3/4/2024,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,40,509
+620,155.33,9/10/2023,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,37,636
+621,406.19,2/3/2024,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",48,189
+622,187.28,8/23/2023,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,30,654
+623,230.57,6/24/2023,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",8,435
+624,350.84,3/6/2024,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",44,935
+625,163.06,3/7/2024,In congue. Etiam justo. Etiam pretium iaculis justo.,19,315
+626,451.54,6/18/2023,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",39,67
+627,295.13,7/6/2023,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",15,803
+628,294.0,12/23/2023,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,32,961
+629,267.56,2/11/2024,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,38,186
+630,260.04,4/30/2024,Fusce consequat. Nulla nisl. Nunc nisl.,17,950
+631,451.02,3/18/2024,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",30,900
+632,493.69,6/2/2024,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,24,424
+633,415.14,3/15/2024,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",47,217
+634,366.64,10/26/2023,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,18,273
+635,386.48,12/5/2023,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",18,941
+636,404.93,1/12/2024,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",22,608
+637,219.21,4/23/2024,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",47,974
+638,454.18,4/20/2024,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,19,513
+639,271.79,5/11/2024,Fusce consequat. Nulla nisl. Nunc nisl.,34,312
+640,169.25,2/29/2024,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",32,880
+641,165.35,3/22/2024,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,43,863
+642,313.14,5/15/2024,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",19,956
+643,406.54,4/26/2024,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",36,297
+644,266.65,8/14/2023,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",29,160
+645,425.47,11/29/2023,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",9,870
+646,312.93,8/23/2023,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,44,251
+647,341.07,4/3/2024,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,32,781
+648,189.17,5/1/2024,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",43,973
+649,490.42,12/9/2023,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",18,911
+650,425.12,8/12/2023,Phasellus in felis. Donec semper sapien a libero. Nam dui.,23,522
+651,468.33,4/13/2024,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,39,659
+652,295.94,8/20/2023,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,37,136
+653,263.76,3/12/2024,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",45,39
+654,214.92,4/3/2024,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,15,131
+655,381.59,6/6/2024,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,26,855
+656,208.47,4/27/2024,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,6,87
+657,424.52,1/11/2024,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,16,566
+658,444.11,6/5/2024,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",45,766
+659,311.95,6/4/2024,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,10,198
+660,152.62,8/19/2023,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",31,823
+661,313.02,1/2/2024,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,36,890
+662,156.59,8/25/2023,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",14,791
+663,362.92,1/27/2024,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",36,59
+664,445.56,11/20/2023,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,30,498
+665,270.32,12/7/2023,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",44,390
+666,411.89,2/18/2024,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",49,706
+667,206.72,12/1/2023,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",46,280
+668,351.5,11/18/2023,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,2,993
+669,343.27,7/4/2023,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",11,52
+670,213.75,1/27/2024,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,36,29
+671,181.4,5/29/2024,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",35,861
+672,395.52,3/26/2024,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",36,36
+673,214.6,4/18/2024,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",2,196
+674,441.29,6/30/2023,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",8,13
+675,267.35,6/21/2023,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,19,389
+676,263.14,1/16/2024,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",40,166
+677,304.27,12/27/2023,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",34,944
+678,276.39,12/5/2023,Sed ante. Vivamus tortor. Duis mattis egestas metus.,29,353
+679,206.06,9/3/2023,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,5,641
+680,315.97,10/18/2023,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",42,1
+681,302.29,4/27/2024,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,16,447
+682,405.94,4/24/2024,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",22,873
+683,305.43,8/19/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",46,94
+684,185.45,8/20/2023,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",22,961
+685,308.0,7/3/2023,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,5,768
+686,221.75,6/13/2023,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,10,419
+687,467.15,2/2/2024,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",32,892
+688,457.19,7/20/2023,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",22,824
+689,371.49,2/6/2024,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,24,73
+690,338.22,9/30/2023,Phasellus in felis. Donec semper sapien a libero. Nam dui.,12,315
+691,240.88,12/15/2023,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,18,60
+692,215.47,2/6/2024,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",50,944
+693,331.72,12/25/2023,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",40,85
+694,428.22,8/8/2023,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",25,360
+695,376.82,3/2/2024,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,49,525
+696,435.79,6/26/2023,Fusce consequat. Nulla nisl. Nunc nisl.,1,189
+697,313.89,1/6/2024,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,48,851
+698,283.25,1/16/2024,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,31,925
+699,251.14,4/2/2024,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,6,86
+700,428.75,6/26/2023,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",47,323
+701,277.29,2/9/2024,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",49,677
+702,347.57,12/4/2023,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,13,991
+703,206.56,8/15/2023,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",48,559
+704,462.23,6/23/2023,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",22,87
+705,494.48,12/11/2023,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",49,973
+706,415.92,5/1/2024,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",8,341
+707,475.37,7/4/2023,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.,24,319
+708,312.57,1/6/2024,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",47,799
+709,172.36,9/1/2023,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",18,205
+710,170.47,2/5/2024,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",32,391
+711,458.37,11/12/2023,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",1,760
+712,382.21,6/17/2023,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,43,359
+713,235.98,5/7/2024,Sed ante. Vivamus tortor. Duis mattis egestas metus.,17,950
+714,424.99,8/7/2023,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",18,304
+715,482.06,6/2/2024,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,45,486
+716,227.46,6/22/2023,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,17,983
+717,184.82,5/5/2024,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",34,472
+718,356.9,12/29/2023,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",4,774
+719,463.26,11/20/2023,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",17,226
+720,220.97,3/1/2024,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",35,749
+721,257.55,5/8/2024,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,29,777
+722,302.78,12/28/2023,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",44,943
+723,227.73,11/6/2023,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,13,295
+724,286.57,10/4/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",15,55
+725,429.21,11/6/2023,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",3,893
+726,203.07,1/23/2024,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",3,823
+727,342.16,1/4/2024,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",18,923
+728,205.88,11/13/2023,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",1,370
+729,448.01,3/11/2024,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",28,339
+730,405.32,3/16/2024,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",17,757
+731,197.82,3/12/2024,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",17,358
+732,218.59,2/25/2024,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",50,476
+733,277.54,1/20/2024,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,31,403
+734,322.84,11/3/2023,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",17,802
+735,359.1,7/11/2023,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",37,581
+736,338.67,11/14/2023,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,26,54
+737,488.72,5/17/2024,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",30,972
+738,196.47,3/3/2024,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,4,614
+739,271.89,5/3/2024,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",50,176
+740,485.91,2/28/2024,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",37,821
+741,280.76,7/20/2023,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",31,414
+742,232.12,4/23/2024,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,48,698
+743,155.13,3/13/2024,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,40,229
+744,249.32,12/30/2023,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",21,475
+745,255.89,8/27/2023,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,16,109
+746,490.16,3/30/2024,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,4,54
+747,164.9,11/16/2023,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,43,921
+748,289.32,4/19/2024,Phasellus in felis. Donec semper sapien a libero. Nam dui.,9,919
+749,207.38,11/15/2023,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,41,422
+750,267.93,1/25/2024,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",26,755
+751,212.13,7/18/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",45,125
+752,211.23,12/31/2023,Phasellus in felis. Donec semper sapien a libero. Nam dui.,15,680
+753,431.29,7/19/2023,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",23,829
+754,169.44,6/30/2023,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",49,766
+755,341.1,12/20/2023,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",31,140
+756,159.17,4/5/2024,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",28,589
+757,421.29,9/11/2023,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,43,857
+758,309.68,1/21/2024,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,12,116
+759,487.34,7/14/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",28,811
+760,265.35,6/10/2023,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",10,281
+761,471.68,10/1/2023,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",18,808
+762,181.45,9/6/2023,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",16,701
+763,359.88,5/15/2024,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,24,156
+764,185.83,1/31/2024,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",32,192
+765,398.44,7/29/2023,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",21,91
+766,159.01,9/1/2023,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",47,671
+767,407.54,2/3/2024,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",14,683
+768,495.99,9/8/2023,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,39,240
+769,447.16,11/28/2023,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,31,163
+770,166.46,12/18/2023,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,8,566
+771,252.28,1/23/2024,Fusce consequat. Nulla nisl. Nunc nisl.,26,212
+772,261.91,5/31/2024,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,44,697
+773,220.63,9/24/2023,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",50,288
+774,228.02,8/27/2023,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",47,328
+775,252.55,2/6/2024,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",14,897
+776,372.08,12/11/2023,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,36,943
+777,234.56,12/30/2023,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",8,876
+778,410.58,9/30/2023,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,24,325
+779,369.8,6/3/2024,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",35,233
+780,205.79,5/14/2024,Phasellus in felis. Donec semper sapien a libero. Nam dui.,45,198
+781,391.34,3/30/2024,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",26,808
+782,346.87,10/23/2023,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",43,75
+783,332.29,2/27/2024,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",18,713
+784,483.78,8/28/2023,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",19,405
+785,327.16,10/6/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",46,965
+786,277.76,9/1/2023,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",40,467
+787,254.96,1/6/2024,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",8,587
+788,497.98,1/28/2024,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",26,464
+789,441.56,1/6/2024,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,2,366
+790,469.92,8/3/2023,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,42,341
+791,189.49,1/27/2024,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",17,100
+792,289.72,7/2/2023,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,21,914
+793,221.95,1/27/2024,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",35,984
+794,499.06,5/15/2024,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",29,620
+795,331.89,7/15/2023,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,17,974
+796,297.74,9/25/2023,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",28,340
+797,475.43,12/10/2023,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,12,867
+798,292.88,7/7/2023,Fusce consequat. Nulla nisl. Nunc nisl.,41,833
+799,212.7,1/6/2024,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",50,807
+800,181.75,4/29/2024,Sed ante. Vivamus tortor. Duis mattis egestas metus.,4,162
+801,468.92,10/10/2023,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",4,140
+802,494.56,1/14/2024,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",44,286
+803,290.27,12/18/2023,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,15,366
+804,223.67,7/6/2023,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",40,103
+805,215.51,2/6/2024,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",18,816
+806,454.66,4/1/2024,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",26,888
+807,182.96,3/23/2024,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",32,301
+808,277.62,9/21/2023,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",2,484
+809,241.83,4/8/2024,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",28,158
+810,372.96,3/15/2024,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",24,415
+811,465.01,1/13/2024,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,25,856
+812,481.18,7/8/2023,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",16,375
+813,281.44,9/17/2023,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,24,139
+814,484.02,7/15/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",25,903
+815,292.91,6/10/2023,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",16,920
+816,461.12,2/13/2024,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,17,126
+817,465.39,9/27/2023,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",40,256
+818,324.57,1/25/2024,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",23,282
+819,449.35,1/22/2024,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",17,561
+820,167.07,11/18/2023,Fusce consequat. Nulla nisl. Nunc nisl.,8,865
+821,382.12,5/15/2024,Fusce consequat. Nulla nisl. Nunc nisl.,11,565
+822,325.69,7/6/2023,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,17,688
+823,345.8,8/3/2023,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",40,287
+824,285.01,4/28/2024,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,38,114
+825,390.04,11/1/2023,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,49,169
+826,414.58,1/21/2024,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",43,55
+827,478.12,12/25/2023,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",24,107
+828,445.56,1/15/2024,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,12,46
+829,219.91,9/1/2023,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",26,565
+830,314.79,3/25/2024,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",9,307
+831,442.93,5/3/2024,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",37,17
+832,491.22,10/23/2023,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",48,293
+833,285.54,10/16/2023,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,37,781
+834,381.97,4/9/2024,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",33,468
+835,235.38,10/9/2023,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",11,478
+836,195.28,8/14/2023,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,22,246
+837,458.93,4/5/2024,In congue. Etiam justo. Etiam pretium iaculis justo.,27,822
+838,428.14,4/15/2024,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,21,236
+839,240.57,1/19/2024,Fusce consequat. Nulla nisl. Nunc nisl.,39,735
+840,181.05,3/21/2024,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",25,550
+841,245.96,1/9/2024,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,25,828
+842,476.17,6/14/2023,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",27,265
+843,224.24,11/3/2023,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,39,235
+844,309.52,3/31/2024,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,37,766
+845,372.53,12/6/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",50,862
+846,177.79,4/29/2024,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",45,607
+847,164.65,9/7/2023,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",36,217
+848,433.17,3/3/2024,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,39,554
+849,200.75,12/29/2023,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,21,288
+850,280.93,3/16/2024,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",15,635
+851,467.96,2/16/2024,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",19,48
+852,466.04,9/21/2023,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",3,363
+853,338.83,8/23/2023,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,19,727
+854,152.77,9/21/2023,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",3,809
+855,433.86,10/18/2023,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",47,126
+856,370.87,10/14/2023,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",31,65
+857,423.08,2/21/2024,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",34,287
+858,255.2,3/15/2024,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,47,942
+859,360.34,9/13/2023,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,32,913
+860,301.3,12/26/2023,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",11,958
+861,235.99,11/18/2023,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",25,215
+862,464.24,8/7/2023,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",4,806
+863,414.54,9/8/2023,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",34,380
+864,444.78,1/20/2024,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",1,38
+865,492.27,8/26/2023,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",32,156
+866,444.5,7/18/2023,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",4,331
+867,218.97,5/14/2024,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",11,212
+868,400.83,2/10/2024,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,45,561
+869,430.35,11/13/2023,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,42,890
+870,283.02,1/27/2024,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,9,87
+871,471.22,3/26/2024,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,47,925
+872,264.32,9/4/2023,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",4,525
+873,482.65,11/20/2023,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,27,111
+874,465.14,7/12/2023,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",24,46
+875,407.19,6/12/2023,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,32,492
+876,473.2,8/16/2023,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",29,694
+877,232.05,3/9/2024,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,29,789
+878,407.69,4/20/2024,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,42,808
+879,226.97,11/11/2023,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",40,688
+880,226.48,2/15/2024,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",41,116
+881,460.93,9/21/2023,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,23,549
+882,330.7,1/30/2024,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,21,291
+883,491.76,12/23/2023,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",27,721
+884,174.3,3/15/2024,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,29,76
+885,339.24,12/14/2023,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,46,116
+886,312.74,2/14/2024,Fusce consequat. Nulla nisl. Nunc nisl.,24,376
+887,437.21,7/12/2023,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",49,608
+888,225.41,10/20/2023,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",39,597
+889,383.91,12/23/2023,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",36,468
+890,207.1,7/7/2023,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",49,99
+891,245.55,5/29/2024,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",21,142
+892,340.79,11/5/2023,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,23,936
+893,254.73,1/9/2024,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",20,993
+894,461.17,5/28/2024,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",48,916
+895,201.79,10/23/2023,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,32,618
+896,299.23,5/13/2024,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",29,712
+897,290.19,11/1/2023,Sed ante. Vivamus tortor. Duis mattis egestas metus.,17,507
+898,381.45,8/13/2023,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",5,184
+899,255.77,3/19/2024,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",11,809
+900,297.81,5/12/2024,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",24,488
+901,155.88,2/17/2024,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,9,191
+902,199.85,1/15/2024,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",11,598
+903,240.24,5/6/2024,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,42,806
+904,275.82,1/28/2024,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,17,188
+905,201.73,12/16/2023,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,30,141
+906,494.38,11/19/2023,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,17,965
+907,291.45,7/1/2023,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,48,839
+908,228.86,11/8/2023,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",41,284
+909,231.02,1/10/2024,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",48,801
+910,277.79,5/21/2024,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",23,664
+911,303.28,8/6/2023,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,44,206
+912,354.91,9/11/2023,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,7,282
+913,316.11,1/15/2024,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,16,525
+914,332.06,5/23/2024,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.,21,2
+915,336.41,1/6/2024,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,7,290
+916,158.44,3/2/2024,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",7,868
+917,327.57,2/6/2024,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",10,969
+918,305.43,6/29/2023,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",28,124
+919,454.51,9/22/2023,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",14,958
+920,455.74,7/22/2023,Phasellus in felis. Donec semper sapien a libero. Nam dui.,9,11
+921,422.32,4/29/2024,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",3,624
+922,483.22,3/17/2024,Fusce consequat. Nulla nisl. Nunc nisl.,3,117
+923,198.68,3/13/2024,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",41,595
+924,424.75,8/30/2023,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",17,633
+925,174.45,7/22/2023,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,10,86
+926,436.7,9/29/2023,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",48,280
+927,448.09,2/15/2024,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",44,689
+928,311.28,2/10/2024,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",37,497
+929,323.18,5/15/2024,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",39,796
+930,272.5,2/9/2024,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",18,731
+931,298.39,7/25/2023,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",40,673
+932,220.35,1/30/2024,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",27,736
+933,173.23,8/14/2023,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",7,322
+934,258.03,3/29/2024,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",33,54
+935,308.63,6/16/2023,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",37,954
+936,258.32,8/31/2023,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,45,699
+937,401.38,2/24/2024,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",46,328
+938,346.19,2/11/2024,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",43,987
+939,314.71,10/11/2023,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",24,976
+940,161.86,7/5/2023,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,22,74
+941,420.24,4/3/2024,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",18,159
+942,342.65,5/12/2024,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",19,900
+943,158.29,11/14/2023,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",21,694
+944,296.15,7/13/2023,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.,18,994
+945,221.48,4/10/2024,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,3,135
+946,227.12,4/17/2024,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,21,675
+947,465.66,12/13/2023,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",11,76
+948,476.71,6/15/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",7,120
+949,456.36,4/12/2024,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",26,793
+950,156.75,7/21/2023,Fusce consequat. Nulla nisl. Nunc nisl.,48,663
+951,192.79,11/5/2023,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",20,14
+952,318.72,11/4/2023,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,29,279
+953,152.71,3/25/2024,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,37,477
+954,191.5,7/15/2023,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",7,138
+955,401.96,9/15/2023,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,44,338
+956,164.05,8/19/2023,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,17,561
+957,270.16,4/4/2024,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",47,75
+958,328.74,1/3/2024,Fusce consequat. Nulla nisl. Nunc nisl.,5,386
+959,332.92,6/7/2023,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",24,219
+960,305.11,7/11/2023,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",4,89
+961,475.02,10/10/2023,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,39,73
+962,349.94,4/16/2024,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",38,514
+963,311.42,5/31/2024,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",45,883
+964,381.46,1/14/2024,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,25,447
+965,359.93,8/26/2023,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",1,901
+966,181.2,7/11/2023,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",36,668
+967,302.8,12/29/2023,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",18,509
+968,231.05,5/13/2024,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",27,122
+969,180.8,6/25/2023,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,45,71
+970,401.09,6/14/2023,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",8,382
+971,463.77,8/27/2023,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,31,533
+972,383.58,10/21/2023,In congue. Etiam justo. Etiam pretium iaculis justo.,30,226
+973,200.55,10/22/2023,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,50,88
+974,315.53,9/25/2023,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",44,543
+975,321.22,11/3/2023,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",47,71
+976,343.25,5/26/2024,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",17,95
+977,169.67,8/31/2023,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",37,684
+978,429.87,1/29/2024,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",50,716
+979,235.64,11/21/2023,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",30,449
+980,329.13,2/12/2024,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",30,382
+981,442.12,4/28/2024,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",35,637
+982,380.56,11/1/2023,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",43,941
+983,441.83,4/27/2024,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,1,971
+984,265.8,3/9/2024,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",4,369
+985,186.22,12/3/2023,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,15,858
+986,333.55,8/25/2023,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",50,842
+987,413.76,11/11/2023,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",8,572
+988,262.21,1/28/2024,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",23,359
+989,152.62,10/24/2023,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",42,304
+990,221.87,10/26/2023,Sed ante. Vivamus tortor. Duis mattis egestas metus.,40,913
+991,175.73,2/25/2024,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,37,872
+992,191.36,1/19/2024,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,49,618
+993,326.35,12/28/2023,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,47,910
+994,286.48,7/24/2023,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,7,711
+995,220.56,7/20/2023,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,47,467
+996,497.43,10/30/2023,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",23,768
+997,331.75,1/19/2024,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,33,387
+998,364.24,4/23/2024,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,40,552
+999,176.07,12/19/2023,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,46,893
+1000,205.41,9/8/2023,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",31,916
