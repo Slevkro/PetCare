@@ -1,5 +1,5 @@
-ESTATUS_PRODUCTO_ID, VALOR, FECHA_ESTATUS
-1, 'en_inventario', '19-May-2023'
-1, 'vendido', '19-May-2023'
-1, 'caduco', '19-May-2023'
-1, 'retirado', '19-May-2023'
+ESTATUS_PRODUCTO_ID,VALOR,FECHA_ESTATUS
+1,en_inventario,19-May-2023
+2,vendido,19-May-2023
+3,caduco,19-May-2023
+4,retirado,19-May-2023
