@@ -1,0 +1,1001 @@
+mascota_id,raza,peso,rasgos,nombre,edad,fecha_nacimiento
+1,Lorythaixoides concolor,5,"Lourie, grey",Kaela,3,06/09/2023
+2,Irania gutteralis,8,"Robin, white-throated",Meara,4,01/21/2024
+3,Speothos vanaticus,3,"Dog, bush",Eimile,4,08/29/2019
+4,Vombatus ursinus,6,Common wombat,Katti,5,05/07/2020
+5,Bos taurus,9,Scottish highland cow,Cull,1,09/17/2016
+6,Melophus lathami,6,Crested bunting,Gun,4,11/02/2023
+7,Grus rubicundus,5,"Crane, brolga",Bordy,3,07/21/2018
+8,Suricata suricatta,7,Suricate,Shepard,7,11/29/2020
+9,Larus fuliginosus,9,Dusky gull,Kyla,7,08/11/2023
+10,Cynomys ludovicianus,4,"Dog, black-tailed prairie",Jenda,1,02/01/2018
+11,Anastomus oscitans,8,Openbill stork,Errick,7,03/08/2019
+12,Thamnolaea cinnmomeiventris,9,Mocking cliffchat,Truman,7,11/06/2016
+13,Ursus americanus,7,Black bear,Alene,1,04/29/2023
+14,Bassariscus astutus,3,Civet cat,James,5,12/19/2019
+15,Turtur chalcospilos,4,"Dove, emerald-spotted wood",Enrique,9,01/19/2023
+16,Carduelis pinus,3,"Siskin, pine",Austina,8,10/22/2020
+17,Bubalus arnee,6,Asian water buffalo,Randi,7,06/14/2020
+18,Philetairus socius,5,Sociable weaver,Stu,1,03/11/2020
+19,Loxodonta africana,7,African elephant,Duff,4,10/30/2016
+20,Alces alces,10,Moose,Otho,5,06/27/2020
+21,Haliaeetus leucoryphus,7,"Eagle, pallas's fish",Nessie,7,05/03/2020
+22,Hymenolaimus malacorhynchus,4,Blue duck,Shawna,8,12/26/2017
+23,Leptoptilos crumeniferus,9,"Stork, marabou",Ignatius,2,08/06/2018
+24,Oryx gazella callotis,5,Fringe-eared oryx,Jaime,9,04/02/2023
+25,Ovibos moschatus,8,"Ox, musk",Melvyn,4,05/22/2018
+26,Theropithecus gelada,10,Bleeding heart monkey,Abie,3,05/12/2020
+27,Vanellus chilensis,6,Southern lapwing,Loydie,9,08/11/2022
+28,Dasyurus viverrinus,10,Native cat,Ikey,4,07/09/2021
+29,Alligator mississippiensis,6,"Alligator, mississippi",Tessie,8,06/16/2023
+30,Megaderma spasma,9,"Bat, asian false vampire",Johan,7,04/28/2022
+31,Aonyx cinerea,6,"Otter, oriental short-clawed",Fair,6,03/20/2019
+32,Merops bullockoides,5,"Bee-eater, white-fronted",Booth,6,10/28/2023
+33,Crotalus cerastes,8,Horned rattlesnake,Birch,8,02/19/2022
+34,Globicephala melas,7,Long-finned pilot whale,Griffie,6,07/13/2017
+35,Macropus fuliginosus,6,"Kangaroo, western grey",Bertram,4,10/15/2021
+36,Felis concolor,4,"Puma, south american",Bunnie,3,12/04/2016
+37,Echimys chrysurus,5,"Rat, white-faced tree",Vergil,1,02/28/2018
+38,Zalophus californicus,5,California sea lion,Buck,1,07/31/2023
+39,Lasiorhinus latifrons,6,Southern hairy-nosed wombat,Arlinda,3,06/18/2019
+40,Macropus eugenii,5,Dama wallaby,Arlana,4,03/07/2022
+41,Loris tardigratus,3,Slender loris,Casar,8,07/04/2022
+42,Hystrix cristata,9,Crested porcupine,Stanwood,5,07/25/2019
+43,Francolinus swainsonii,10,Swainson's francolin,Constantia,9,08/08/2023
+44,Morelia spilotes variegata,5,"Python, carpet",Ethel,7,01/30/2023
+45,Pseudoleistes virescens,5,Brown and yellow marshbird,Vivianna,1,08/26/2022
+46,Panthera leo persica,7,"Lion, asian",Forest,5,07/16/2017
+47,Gyps bengalensis,10,"Vulture, bengal",Vinson,9,07/02/2018
+48,Buteo jamaicensis,4,"Hawk, red-tailed",Allan,8,03/16/2023
+49,Geospiza sp.,4,Darwin ground finch (unidentified),Shawnee,7,04/21/2024
+50,Merops nubicus,9,"Bee-eater, nubian",Davide,6,03/25/2018
+51,Dasypus novemcinctus,7,"Armadillo, nine-banded",Naoma,6,01/24/2017
+52,Milvus migrans,9,Black kite,Arney,4,12/26/2023
+53,Naja haje,10,Egyptian viper,Luz,4,06/15/2017
+54,Bubalus arnee,7,"Buffalo, asian water",Bear,1,08/01/2023
+55,Felis libyca,3,"Cat, cape wild",Tessy,8,02/25/2022
+56,Physignathus cocincinus,3,Asian water dragon,Cynthea,9,05/01/2020
+57,Caiman crocodilus,6,"Caiman, spectacled",Drucie,7,09/28/2023
+58,Cereopsis novaehollandiae,7,Cereopsis goose,Erastus,3,02/28/2018
+59,Bassariscus astutus,8,Miner's cat,Kristine,7,11/30/2020
+60,Bassariscus astutus,9,"Cat, civet",Vivi,5,10/10/2016
+61,unavailable,9,Paddy heron (unidentified),Willi,8,02/12/2024
+62,Pelecanus occidentalis,5,Brown pelican,Hermia,6,07/27/2023
+63,Amblyrhynchus cristatus,10,"Iguana, marine",Gunter,3,05/23/2024
+64,Anitibyx armatus,9,Tawny eagle,Shauna,6,03/23/2023
+65,Felis silvestris lybica,9,"Cat, african wild",Sigismondo,4,06/27/2023
+66,Hippotragus niger,8,"Antelope, sable",Izaak,4,09/16/2018
+67,Passer domesticus,10,"Sparrow, house",Abdel,6,08/06/2017
+68,Iguana iguana,4,Common green iguana,Allissa,7,06/26/2020
+69,Echimys chrysurus,7,White-faced tree rat,Marion,8,10/16/2016
+70,Stercorarius longicausus,4,"Skua, long-tailed",Leeanne,2,01/05/2020
+71,Melophus lathami,7,"Bunting, crested",Shandeigh,7,12/25/2022
+72,Otocyon megalotis,5,"Fox, bat-eared",Dagmar,1,10/15/2021
+73,Stercorarius longicausus,8,"Skua, long-tailed",Rosana,4,06/27/2023
+74,Phasianus colchicus,3,Ring-necked pheasant,Dolly,7,10/29/2018
+75,Axis axis,5,"Deer, spotted",Ramona,8,02/24/2021
+76,Milvus migrans,6,Black kite,Herold,7,01/21/2019
+77,Limnocorax flavirostra,6,"Crake, african black",Ray,4,03/22/2019
+78,Chlidonias leucopterus,4,White-winged black tern,Kaila,7,07/12/2022
+79,Varanus salvator,4,Two-banded monitor,Ferdinande,9,08/22/2016
+80,Eubalaena australis,9,"Whale, southern right",Della,1,07/08/2019
+81,Egretta thula,10,Snowy egret,Coralyn,4,07/03/2017
+82,Panthera pardus,6,"Leopard, indian",Sosanna,2,05/14/2023
+83,Creagrus furcatus,4,Swallow-tail gull,Grace,3,06/03/2022
+84,Hymenolaimus malacorhynchus,4,Mountain duck,Edythe,2,02/04/2024
+85,Bucephala clangula,9,Barrows goldeneye,Fredelia,9,09/28/2016
+86,Litrocranius walleri,6,Gerenuk,Gustavus,3,09/24/2018
+87,Chlidonias leucopterus,3,"Tern, white-winged",Charmain,2,11/23/2019
+88,Oncorhynchus nerka,7,"Salmon, sockeye",Dal,6,11/17/2018
+89,Hyaena hyaena,7,"Hyena, striped",Derward,2,07/02/2021
+90,Zenaida galapagoensis,3,Galapagos dove,Rochester,2,06/25/2019
+91,Cebus apella,7,Black-capped capuchin,Magda,4,04/23/2022
+92,Bubalus arnee,8,Wild water buffalo,Wallis,9,10/20/2018
+93,Dicrostonyx groenlandicus,9,"Lemming, collared",Axel,6,09/24/2023
+94,Cathartes aura,8,"Vulture, turkey",Benson,3,04/26/2020
+95,Colobus guerza,10,Magistrate black colobus,Rose,2,02/02/2019
+96,Axis axis,10,Spotted deer,Cyndia,8,01/29/2017
+97,Vombatus ursinus,6,"Wombat, common",Evin,2,10/10/2020
+98,Phalaropus fulicarius,7,"Phalarope, grey",Thayne,9,11/12/2016
+99,Caiman crocodilus,5,"Caiman, spectacled",Emalee,4,02/17/2024
+100,Cebus nigrivittatus,3,Weeper capuchin,Trudie,2,04/09/2019
+101,Macropus agilis,6,"Wallaby, agile",Ardelle,3,05/15/2020
+102,Anas bahamensis,8,White-cheeked pintail,Pete,9,05/02/2018
+103,Himantopus himantopus,3,Black-winged stilt,Rog,1,02/20/2023
+104,Dicrostonyx groenlandicus,7,Arctic lemming,Margie,6,06/23/2018
+105,Mustela nigripes,10,Black-footed ferret,Wakefield,2,07/21/2020
+106,Marmota monax,10,Groundhog,Adriaens,7,01/02/2023
+107,Ovis musimon,5,Mouflon,Cory,6,10/04/2016
+108,Proteles cristatus,9,Aardwolf,Aeriel,1,09/12/2020
+109,Canis aureus,5,Golden jackal,Charline,5,01/26/2021
+110,Chelodina longicollis,7,Snake-necked turtle,Lolly,2,12/17/2023
+111,Ramphastos tucanus,5,White-throated toucan,Iosep,1,04/04/2023
+112,Capreolus capreolus,3,Roe deer,Constanta,2,03/02/2022
+113,Macropus agilis,8,"Wallaby, agile",Niels,5,04/27/2022
+114,Podargus strigoides,5,Tawny frogmouth,Mable,8,06/02/2019
+115,Nesomimus trifasciatus,4,"Mockingbird, galapagos",Giovanna,5,01/20/2018
+116,Dasyurus viverrinus,4,"Quoll, eastern",Sloane,6,07/09/2017
+117,Eurocephalus anguitimens,3,Southern white-crowned shrike,Minny,6,09/26/2022
+118,Larus dominicanus,10,Southern black-backed gull,Pamela,5,09/28/2016
+119,Ciconia ciconia,4,European stork,Francisca,9,09/09/2021
+120,Callorhinus ursinus,5,Northern fur seal,Beniamino,9,10/07/2022
+121,Lepus arcticus,8,Arctic hare,Carroll,3,06/02/2020
+122,Chelodina longicollis,9,"Turtle, long-necked",Franky,2,05/11/2024
+123,Paradoxurus hermaphroditus,9,Toddy cat,Genevra,6,07/25/2017
+124,Ara chloroptera,4,"Macaw, red and blue",Jakob,8,02/05/2021
+125,Ursus americanus,5,"Bear, black",Kristina,2,09/11/2023
+126,Connochaetus taurinus,10,Blue wildebeest,Pamela,6,08/10/2019
+127,Semnopithecus entellus,9,"Langur, hanuman",Barry,2,07/19/2023
+128,Dasypus novemcinctus,10,Common long-nosed armadillo,Godfry,5,01/18/2021
+129,Ardea cinerea,9,"Heron, grey",Goldy,7,01/20/2023
+130,Dendrocygna viduata,3,White-faced whistling duck,Hammad,2,02/26/2023
+131,Chelodina longicollis,6,"Turtle, snake-necked",Dennie,6,04/05/2021
+132,Catharacta skua,10,Great skua,Itch,4,05/13/2024
+133,Dipodomys deserti,7,Desert kangaroo rat,Fernande,1,01/26/2019
+134,Tetracerus quadricornis,8,"Antelope, four-horned",Benoit,3,11/11/2019
+135,Alcelaphus buselaphus cokii,3,Kongoni,Marena,9,07/13/2019
+136,Loxodonta africana,7,African elephant,Tamas,1,03/24/2023
+137,Acrobates pygmaeus,5,"Glider, feathertail",Ennis,2,01/16/2019
+138,Procyon cancrivorus,10,Crab-eating raccoon,Robena,4,05/28/2020
+139,Lorythaixoides concolor,5,Grey lourie,Wilfred,8,09/28/2020
+140,Gyps bengalensis,7,"Vulture, oriental white-backed",Camala,4,01/27/2024
+141,Macropus eugenii,5,"Wallaby, dama",Elisha,1,04/10/2019
+142,Zonotrichia capensis,7,Rufous-collared sparrow,Rae,7,02/21/2024
+143,Corvus albicollis,7,"Raven, white-necked",Anthea,7,06/30/2018
+144,Crotalus adamanteus,7,"Rattlesnake, eastern diamondback",Nathan,1,05/07/2017
+145,Centrocercus urophasianus,8,Sage hen,Myer,9,03/13/2024
+146,Semnopithecus entellus,10,"Langur, hanuman",Donnajean,4,05/14/2023
+147,Felis concolor,5,Mountain lion,Freddie,9,10/02/2017
+148,Cereopsis novaehollandiae,5,"Goose, cape barren",Frederico,3,03/16/2017
+149,Laniarius ferrugineus,7,"Boubou, southern",Trudy,9,06/19/2022
+150,Leprocaulinus vipera,9,Stick insect,Oswald,7,12/28/2020
+151,Pycnonotus barbatus,4,Black-eyed bulbul,Angele,5,05/25/2023
+152,Turtur chalcospilos,7,Emerald-spotted wood dove,Desirae,4,05/19/2024
+153,Phalacrocorax brasilianus,10,Neotropic cormorant,Emelina,8,09/08/2017
+154,Macropus rufogriseus,9,Red-necked wallaby,Rivkah,7,08/20/2020
+155,Speotyte cuniculata,3,Burrowing owl,Gabriela,3,11/12/2019
+156,Propithecus verreauxi,4,"Sifaka, verreaux's",Dolf,6,10/23/2023
+157,Ramphastos tucanus,3,White-throated toucan,Hayes,6,06/17/2022
+158,Melursus ursinus,10,Sloth bear,Billie,1,05/15/2022
+159,unavailable,3,Sea birds (unidentified),Dalenna,3,04/21/2023
+160,Pteropus rufus,4,Madagascar fruit bat,Charmane,4,08/15/2021
+161,Drymarchon corias couperi,8,"Snake, eastern indigo",Claiborne,3,02/06/2024
+162,Bison bison,7,American bison,Eloise,7,06/01/2022
+163,Oryx gazella,8,Gemsbok,Dylan,4,04/30/2017
+164,Tringa glareola,10,Spotted wood sandpiper,Jaynell,6,04/03/2021
+165,Panthera onca,3,Jaguar,Benoit,4,07/30/2023
+166,Spermophilus lateralis,6,"Squirrel, golden-mantled ground",Bette,4,09/28/2017
+167,Alouatta seniculus,10,Red howler monkey,Ingemar,8,11/01/2023
+168,Zenaida galapagoensis,3,"Dove, galapagos",Christin,6,07/31/2023
+169,Redunca redunca,8,Bohor reedbuck,Edgardo,7,12/23/2016
+170,Acridotheres tristis,9,Indian mynah,Fanchon,8,05/19/2023
+171,Diomedea irrorata,3,"Albatross, galapagos",Alejoa,9,12/17/2023
+172,Larus novaehollandiae,4,"Gull, silver",Nanine,3,12/16/2017
+173,Choloepus hoffmani,4,Two-toed sloth,Karlene,8,07/13/2016
+174,Graspus graspus,9,"Crab, sally lightfoot",Jan,1,02/02/2020
+175,Varanus sp.,9,Goanna lizard,Skelly,1,05/06/2021
+176,Bubalus arnee,7,"Buffalo, asian water",Stephine,6,12/26/2023
+177,Macaca mulatta,6,Rhesus macaque,Storm,4,08/12/2018
+178,Boa caninus,10,"Boa, emerald green tree",Mira,3,12/18/2016
+179,Trachyphonus vaillantii,8,"Barbet, levaillant's",Ibby,3,12/20/2022
+180,Rhea americana,10,Gray rhea,Rudiger,7,09/18/2019
+181,Sus scrofa,7,"Boar, wild",Larina,8,11/27/2018
+182,Pelecanus conspicillatus,10,Australian pelican,Raven,8,04/21/2020
+183,Pycnonotus nigricans,8,Black-fronted bulbul,Candra,4,04/06/2017
+184,Alopochen aegyptiacus,3,Egyptian goose,Amandy,7,05/02/2024
+185,Zenaida galapagoensis,7,Galapagos dove,Rozelle,3,12/21/2022
+186,Phoeniconaias minor,3,Lesser flamingo,Westleigh,9,03/19/2018
+187,Cervus duvauceli,9,Barasingha deer,Mehetabel,9,11/20/2019
+188,Eubalaena australis,4,"Whale, southern right",Mabel,9,04/13/2021
+189,Echimys chrysurus,6,"Rat, arboral spiny",Yolande,6,05/16/2020
+190,Gopherus agassizii,4,"Tortoise, desert",Robin,1,02/13/2022
+191,Morelia spilotes variegata,5,"Snake, carpet",Bonni,5,03/23/2022
+192,Bubulcus ibis,10,Cattle egret,Elden,9,01/11/2023
+193,Rhea americana,4,"Rhea, common",Cly,5,10/04/2023
+194,Vanessa indica,4,"Admiral, indian red",Elvis,1,09/01/2020
+195,Psophia viridis,4,"Trumpeter, dark-winged",Alfreda,7,05/18/2017
+196,Tyto novaehollandiae,10,Australian masked owl,Stanwood,1,10/04/2021
+197,Chloephaga melanoptera,4,Andean goose,Lind,7,04/04/2022
+198,Streptopelia decipiens,3,Mourning collared dove,Roma,2,03/13/2019
+199,Colobus guerza,5,"Colobus, magistrate black",Zola,7,12/21/2020
+200,Eolophus roseicapillus,9,"Cockatoo, red-breasted",Stacy,1,07/27/2022
+201,Vanellus chilensis,10,Southern lapwing,Amil,3,09/24/2023
+202,Streptopelia decipiens,4,"Dove, mourning collared",Joyce,5,01/02/2018
+203,Dendrohyrax brucel,3,Hyrax,Janice,2,10/11/2017
+204,Spermophilus lateralis,8,Golden-mantled ground squirrel,Nichols,3,11/24/2022
+205,Iguana iguana,9,"Iguana, common green",Klarika,3,07/03/2017
+206,Larus fuliginosus,7,Dusky gull,Adrea,7,01/15/2022
+207,Centrocercus urophasianus,7,"Grouse, greater sage",Bonita,9,12/12/2017
+208,Otocyon megalotis,6,"Fox, bat-eared",Porty,6,09/16/2022
+209,Pseudocheirus peregrinus,3,Common ringtail,Aleta,6,07/01/2017
+210,Lemur fulvus,9,"Lemur, brown",Bellanca,8,10/05/2023
+211,Zalophus californicus,4,"Lion, galapagos sea",Shari,9,06/17/2017
+212,Gekko gecko,7,Tokay gecko,Lexis,8,08/12/2018
+213,Grus antigone,6,"Crane, sarus",Frank,7,02/24/2017
+214,Corvus brachyrhynchos,8,House crow,Brennen,9,04/07/2023
+215,Petaurus norfolcensis,6,Squirrel glider,Alejandra,2,03/31/2021
+216,Ovis canadensis,8,American bighorn sheep,Electra,7,03/14/2023
+217,unavailable,7,Adouri (unidentified),Connie,6,12/18/2019
+218,Hystrix indica,3,"Porcupine, indian",Rickard,2,05/29/2024
+219,Hyaena brunnea,3,"Hyena, brown",Hadrian,5,02/27/2024
+220,Zonotrichia capensis,4,"Sparrow, rufous-collared",Gaylor,4,03/03/2018
+221,Speotyte cuniculata,9,Burrowing owl,Jayme,7,02/09/2023
+222,Haematopus ater,7,Black curlew,Griswold,7,03/30/2024
+223,Sarcophilus harrisii,7,Tasmanian devil,Moll,3,09/16/2023
+224,Ramphastos tucanus,7,White-throated toucan,Xylina,1,02/05/2019
+225,Canis mesomelas,8,"Jackal, silver-backed",Cherianne,5,01/15/2021
+226,Tamandua tetradactyla,10,Southern tamandua,Allister,2,07/30/2021
+227,Amblyrhynchus cristatus,10,Marine iguana,Margit,1,11/14/2019
+228,Tayassu tajacu,5,Collared peccary,Gilbertine,3,08/31/2023
+229,Tachybaptus ruficollis,4,"Grebe, little",Noe,9,05/25/2017
+230,Microcebus murinus,5,Grey mouse lemur,Mirabel,5,04/02/2018
+231,Ursus maritimus,8,"Bear, polar",Prudence,2,09/27/2023
+232,unavailable,10,Butterfly (unidentified),Bennie,2,05/17/2019
+233,Anitibyx armatus,4,Tawny eagle,Nelli,2,12/08/2023
+234,Platalea leucordia,5,White spoonbill,Scarlett,3,02/05/2018
+235,Salvadora hexalepis,9,"Snake, western patch-nosed",Fletch,2,06/19/2018
+236,Meleagris gallopavo,5,"Turkey, wild",Cassy,7,03/19/2017
+237,Physignathus cocincinus,6,"Dragon, asian water",Constance,7,11/19/2019
+238,Arctogalidia trivirgata,8,Small-toothed palm civet,Tris,8,06/18/2022
+239,Ara ararauna,3,"Macaw, blue and yellow",Crystal,8,06/14/2022
+240,Madoqua kirkii,7,Kirk's dik dik,Kandy,5,04/05/2019
+241,Pituophis melanaleucus,10,Pine snake (unidentified),Sharona,1,05/17/2021
+242,Sylvilagus floridanus,3,Eastern cottontail rabbit,Jecho,6,07/19/2019
+243,Rhabdomys pumilio,3,Four-striped grass mouse,Muire,7,06/05/2018
+244,Meleagris gallopavo,8,"Turkey, common",Theodosia,6,12/09/2019
+245,Ratufa indica,5,"Squirrel, malabar",Odele,3,08/15/2019
+246,Pycnonotus nigricans,3,"Bulbul, black-fronted",Roselin,1,09/20/2019
+247,Phascogale calura,9,"Phascogale, red-tailed",Henderson,5,05/20/2022
+248,Canis aureus,6,Asiatic jackal,Flori,1,03/17/2020
+249,Bassariscus astutus,10,"Cat, civet",Bentley,2,05/31/2023
+250,Choloepus hoffmani,5,Two-toed tree sloth,Carley,6,06/15/2020
+251,Butorides striatus,10,"Heron, green",Curry,9,01/10/2018
+252,Lutra canadensis,5,"Otter, canadian river",Tabbie,5,06/11/2022
+253,Sarkidornis melanotos,5,Comb duck,Pam,5,01/29/2017
+254,Neotoma sp.,4,Woodrat (unidentified),Lorne,8,05/20/2020
+255,Sagittarius serpentarius,8,"Bird, secretary",Sileas,4,12/23/2021
+256,Phylurus milli,9,"Gecko, barking",Erinna,2,07/13/2022
+257,Naja nivea,3,"Cobra, cape",Carolina,9,01/05/2018
+258,Aonyx cinerea,6,"Otter, small-clawed",Brinn,4,12/19/2021
+259,Felis concolor,9,South American puma,Tailor,7,01/14/2018
+260,Marmota flaviventris,9,"Marmot, yellow-bellied",Jane,9,02/07/2023
+261,Cordylus giganteus,3,"Sungazer, yellow-brown",Ilise,3,11/05/2021
+262,Pelecanus conspicillatus,3,Australian pelican,Vicky,2,08/14/2016
+263,Gorilla gorilla,10,"Gorilla, western lowland",Egor,2,03/09/2020
+264,Paraxerus cepapi,8,"Squirrel, grey-footed",Benji,2,07/13/2017
+265,Cyrtodactylus louisiadensis,4,Ring-tailed gecko,Neils,2,11/10/2023
+266,Buteo jamaicensis,7,"Hawk, red-tailed",Rhodia,5,07/11/2023
+267,Varanus sp.,3,Ground legaan,Justine,3,09/24/2020
+268,Spermophilus richardsonii,5,Richardson's ground squirrel,Car,6,03/01/2023
+269,Trichosurus vulpecula,3,"Possum, golden brush-tailed",Deny,1,06/17/2019
+270,Zenaida galapagoensis,5,Galapagos dove,Elnore,8,09/25/2019
+271,Paradoxurus hermaphroditus,7,"Civet, common palm",Caryl,3,04/20/2019
+272,Cacatua galerita,5,"Cockatoo, sulfur-crested",Dulcea,2,03/15/2022
+273,Colobus guerza,6,Guerza,Filmore,2,03/11/2021
+274,Taxidea taxus,10,"Badger, american",Nickola,6,11/22/2018
+275,unavailable,10,Python (unidentified),Merrel,1,06/13/2023
+276,Geococcyx californianus,7,"Roadrunner, greater",Ceil,5,09/16/2020
+277,Pelecans onocratalus,6,Eastern white pelican,Addy,8,02/13/2021
+278,Equus burchelli,7,Plains zebra,Stesha,1,10/04/2018
+279,Choloepus hoffmani,3,Two-toed sloth,Consalve,3,02/05/2017
+280,Eudyptula minor,7,Little blue penguin,Eal,4,05/13/2018
+281,Anas bahamensis,4,"Pintail, white-cheeked",Cly,3,07/04/2019
+282,Porphyrio porphyrio,6,"Moorhen, purple",Kary,3,08/13/2021
+283,Manouria emys,5,"Tortoise, asian foreset",Terrie,8,05/05/2022
+284,Naja haje,6,"Cobra, egyptian",Mellicent,5,01/30/2020
+285,Geochelone radiata,5,Radiated tortoise,Elva,1,07/20/2016
+286,Semnopithecus entellus,3,"Langur, common",Rosemaria,9,01/18/2022
+287,Lama pacos,10,Alpaca,Lydia,9,09/15/2016
+288,Globicephala melas,5,Long-finned pilot whale,Saraann,7,05/03/2019
+289,Stercorarius longicausus,3,Long-tailed jaeger,Jocelyn,6,10/08/2019
+290,Boselaphus tragocamelus,8,Nilgai,Zsa zsa,3,11/07/2018
+291,unavailable,5,Swallow (unidentified),Anstice,8,11/23/2023
+292,Castor canadensis,4,"Beaver, american",Towney,6,10/31/2021
+293,Antilocapra americana,8,Pronghorn,Karlen,5,04/28/2021
+294,Anas bahamensis,10,"Pintail, white-cheeked",Ring,3,08/16/2022
+295,Semnopithecus entellus,7,Common langur,Kennie,7,06/23/2017
+296,Prionace glauca,10,Blue shark,Roxy,5,02/24/2021
+297,Zosterops pallidus,3,Cape white-eye,Anderea,4,04/28/2021
+298,Buteo regalis,4,"Hawk, ferruginous",Maible,5,09/01/2023
+299,Boselaphus tragocamelus,4,Nilgai,Meaghan,2,07/11/2017
+300,Ovis musimon,10,Mouflon,Ileane,3,10/28/2018
+301,Ploceus intermedius,5,"Weaver, lesser masked",Gunar,2,10/01/2022
+302,Meleagris gallopavo,9,"Turkey, common",Ginny,1,03/31/2024
+303,Bucorvus leadbeateri,8,"Hornbill, southern ground",Stuart,7,04/10/2017
+304,Macropus agilis,6,"Wallaby, river",Bobinette,5,08/07/2019
+305,Speotyte cuniculata,10,Burrowing owl,Gisella,5,08/04/2023
+306,Columba livia,8,Rock dove,Stephanus,7,04/24/2022
+307,Spheniscus mendiculus,8,Galapagos penguin,Codie,5,01/14/2017
+308,Halcyon smyrnesis,3,White-throated kingfisher,Mordy,4,12/16/2017
+309,Cygnus buccinator,3,"Swan, trumpeter",Alfred,7,10/31/2023
+310,Lorythaixoides concolor,9,"Lourie, grey",Sheila,2,04/18/2023
+311,Cordylus giganteus,3,Sun gazer,Reta,1,05/31/2020
+312,Gazella thompsonii,10,"Gazelle, thomson's",Evered,6,05/17/2018
+313,Naja nivea,10,Cape cobra,Iosep,6,02/21/2019
+314,Alopex lagopus,4,"Fox, blue",Willie,5,04/20/2017
+315,Paraxerus cepapi,7,"Squirrel, african bush",Nicolea,2,12/10/2023
+316,Porphyrio porphyrio,10,"Moorhen, purple",Lyon,3,05/06/2018
+317,Cacatua tenuirostris,8,Long-billed cockatoo,Roberto,6,05/03/2021
+318,Ninox superciliaris,9,White-browed owl,Fletch,6,09/19/2016
+319,Bettongia penicillata,10,"Bettong, brush-tailed",Andrej,1,10/08/2018
+320,Melursus ursinus,10,Sloth bear,Tomi,6,01/07/2019
+321,Bucorvus leadbeateri,5,Southern ground hornbill,Shellysheldon,1,08/22/2018
+322,Mungos mungo,8,Banded mongoose,Ricard,8,03/30/2019
+323,Geochelone radiata,4,Radiated tortoise,Shamus,1,06/01/2024
+324,Isoodon obesulus,10,Short-nosed bandicoot,Audrye,9,10/07/2021
+325,Cabassous sp.,10,Eleven-banded armadillo (unidentified),Hannis,4,06/30/2022
+326,Bison bison,6,American buffalo,Isac,3,10/14/2021
+327,Anas platyrhynchos,5,Mallard,Nadiya,1,11/06/2016
+328,Diomedea irrorata,5,Galapagos albatross,Tania,2,06/17/2022
+329,Ciconia episcopus,4,"Stork, white-necked",Jordanna,5,03/16/2018
+330,Bubalus arnee,10,"Buffalo, asian water",Ethel,1,04/16/2022
+331,Panthera pardus,8,"Leopard, indian",Heall,9,08/18/2020
+332,Lutra canadensis,7,North American river otter,Trey,2,02/07/2019
+333,Tiliqua scincoides,8,Blue-tongued lizard,Dunc,1,02/11/2024
+334,Zonotrichia capensis,6,"Sparrow, rufous-collared",Winthrop,8,01/03/2017
+335,Felis silvestris lybica,5,European wild cat,Eve,8,09/22/2019
+336,Acanthaster planci,10,Crown of thorns starfish,Fidelio,2,05/15/2023
+337,Ara ararauna,8,Blue and yellow macaw,Muhammad,8,02/19/2024
+338,Cynomys ludovicianus,10,"Dog, black-tailed prairie",Kayle,7,03/07/2018
+339,Zenaida galapagoensis,5,"Dove, galapagos",Justino,8,09/16/2022
+340,Ovis ammon,4,Red sheep,Blaine,5,02/17/2021
+341,Geochelone elephantopus,6,"Tortoise, galapagos",Joey,8,08/23/2021
+342,Sarkidornis melanotos,5,"Duck, comb",Meris,1,06/27/2021
+343,Mabuya spilogaster,7,"Skink, african",Cordula,5,08/16/2016
+344,Aonyx cinerea,6,"Otter, small-clawed",Cal,2,12/22/2020
+345,Canis aureus,10,Asiatic jackal,Roana,5,10/18/2019
+346,Ciconia ciconia,3,"Stork, european",Alida,3,05/06/2020
+347,Nannopterum harrisi,5,"Cormorant, flightless",Natalie,8,12/05/2021
+348,Alligator mississippiensis,5,Mississippi alligator,Golda,4,07/13/2021
+349,Bucephala clangula,4,"Goldeneye, common",Aylmer,3,07/26/2019
+350,Mungos mungo,6,Banded mongoose,Elliott,2,06/28/2021
+351,Crotalus triseriatus,8,Dusky rattlesnake,Viv,3,09/30/2016
+352,Zonotrichia capensis,6,Rufous-collared sparrow,Berty,2,01/04/2020
+353,Epicrates cenchria maurus,7,"Boa, columbian rainbow",Ronald,1,11/11/2018
+354,Phalacrocorax carbo,8,Large cormorant,Iain,7,01/14/2021
+355,Alopochen aegyptiacus,10,"Goose, egyptian",Bernhard,7,02/16/2019
+356,Equus burchelli,6,"Zebra, common",Bertina,8,09/09/2018
+357,Sciurus vulgaris,9,"Squirrel, european red",Tani,6,05/14/2021
+358,Camelus dromedarius,7,Dromedary camel,Noah,9,08/18/2016
+359,Butorides striatus,7,Green heron,Giorgi,6,11/16/2023
+360,Cyrtodactylus louisiadensis,3,"Gecko, ring-tailed",Aurie,1,03/22/2017
+361,Manouria emys,9,"Tortoise, asian foreset",Ashby,8,07/03/2016
+362,Oxybelis fulgidus,3,Green vine snake,Staci,2,11/30/2023
+363,Centrocercus urophasianus,9,"Hen, sage",Robena,5,08/17/2017
+364,Alopochen aegyptiacus,3,"Goose, egyptian",Mart,3,05/19/2019
+365,Bucorvus leadbeateri,6,"Hornbill, leadbeateri's ground",Ivie,8,07/16/2016
+366,Theropithecus gelada,5,"Monkey, bleeding heart",Uri,2,09/08/2022
+367,Phalacrocorax niger,3,"Cormorant, javanese",Editha,1,07/30/2019
+368,Neophron percnopterus,10,"Vulture, egyptian",Faustina,5,09/12/2022
+369,Rhea americana,8,Gray rhea,Rocky,6,11/13/2019
+370,Odocoileus hemionus,4,Black-tailed deer,Joey,3,07/16/2023
+371,Nesomimus trifasciatus,3,Galapagos mockingbird,Virginie,7,04/03/2017
+372,Corvus albicollis,9,"Raven, white-necked",Tate,6,11/16/2021
+373,Larus fuliginosus,8,"Gull, lava",Peadar,3,09/19/2018
+374,Tadorna tadorna,3,"Shelduck, common",Ida,3,06/03/2018
+375,Tamiasciurus hudsonicus,7,"Squirrel, pine",Dinnie,1,01/05/2020
+376,Ovis dalli stonei,9,"Sheep, stone",Cornall,9,10/24/2021
+377,Crotalus triseriatus,4,Dusky rattlesnake,Ev,6,03/13/2017
+378,Phoenicopterus ruber,4,Greater flamingo,Corey,7,10/30/2020
+379,Paraxerus cepapi,8,Smith's bush squirrel,Christophorus,2,04/25/2023
+380,Tenrec ecaudatus,6,"Tenrec, tailless",Purcell,2,11/14/2019
+381,Mellivora capensis,7,"Badger, honey",Kristal,8,11/30/2020
+382,Dasypus novemcinctus,6,Common long-nosed armadillo,Sybila,2,02/24/2023
+383,Porphyrio porphyrio,7,Purple moorhen,Archibald,6,12/28/2016
+384,Tayassu pecari,8,White-lipped peccary,Ashli,7,04/20/2019
+385,Tachyglossus aculeatus,3,Australian spiny anteater,Joelynn,6,06/25/2017
+386,Macropus parryi,7,"Wallaby, whip-tailed",Rafaelia,4,02/04/2023
+387,Lutra canadensis,4,"Otter, canadian river",Ondrea,4,09/09/2023
+388,Grus rubicundus,8,Brolga crane,Nertie,7,09/03/2016
+389,Ciconia ciconia,8,"Stork, european",Giraldo,5,03/13/2021
+390,Xerus sp.,9,African ground squirrel (unidentified),Francesca,4,08/23/2016
+391,Felis wiedi or Leopardus weidi,5,Long-tailed spotted cat,Emmett,5,01/25/2022
+392,Ploceus intermedius,10,Lesser masked weaver,Robin,9,02/04/2017
+393,Platalea leucordia,10,European spoonbill,Melany,2,09/01/2023
+394,Petaurus breviceps,6,Sugar glider,Dillie,2,06/14/2022
+395,Gopherus agassizii,5,"Tortoise, desert",Christin,8,04/13/2021
+396,Panthera pardus,7,Leopard,Micah,4,04/20/2020
+397,Cacatua galerita,9,"Cockatoo, sulfur-crested",Oates,9,11/27/2019
+398,Panthera leo,8,African lion,Orlan,8,12/22/2017
+399,Sceloporus magister,7,Desert spiny lizard,Daveen,3,05/08/2023
+400,Castor canadensis,8,"Beaver, north american",Amy,1,02/16/2021
+401,Myiarchus tuberculifer,3,Tyrant flycatcher,Pam,9,05/30/2020
+402,Chloephaga melanoptera,8,"Goose, andean",Taffy,8,11/01/2023
+403,Spheniscus magellanicus,4,"Penguin, magellanic",Hester,5,06/10/2019
+404,Eudyptula minor,6,"Penguin, fairy",Lily,1,02/25/2022
+405,Macropus agilis,9,Agile wallaby,Katharine,6,03/04/2022
+406,Neophron percnopterus,5,"Vulture, egyptian",Laird,6,08/23/2020
+407,Catharacta skua,4,"Skua, great",Michaella,4,11/10/2022
+408,Pelecanus conspicillatus,5,Australian pelican,Anthiathia,2,11/22/2017
+409,Delphinus delphis,9,Common dolphin,Zeke,6,02/13/2017
+410,Lasiodora parahybana,7,Salmon pink bird eater tarantula,Almeta,4,01/06/2019
+411,Notechis semmiannulatus,6,Tiger snake,Bernice,3,05/28/2018
+412,Cercatetus concinnus,9,"Possum, western pygmy",Christine,3,07/20/2023
+413,Neotis denhami,5,Stanley bustard,Walton,5,03/10/2021
+414,Hippotragus niger,5,"Antelope, sable",Reuben,5,09/10/2023
+415,Bettongia penicillata,5,Woylie,Myles,1,06/05/2018
+416,Heloderma horridum,7,Gila monster,Lorelei,6,09/02/2019
+417,Meles meles,8,"Badger, european",Anna-maria,9,06/05/2021
+418,Castor canadensis,8,American beaver,Giacobo,1,11/07/2020
+419,Dendrocitta vagabunda,9,"Pie, indian tree",Catharine,8,12/09/2021
+420,Alces alces,8,Moose,Milena,4,04/02/2019
+421,Eutamias minimus,7,Least chipmunk,Dall,4,03/31/2019
+422,Felis chaus,4,Jungle cat,Lila,4,07/27/2017
+423,Macropus fuliginosus,7,Black-faced kangaroo,Idelle,2,09/20/2018
+424,Castor canadensis,7,North American beaver,Murry,5,10/26/2023
+425,Phascogale tapoatafa,6,"Phascogale, brush-tailed",Evin,6,05/30/2022
+426,Crotalus triseriatus,5,Dusky rattlesnake,Lesya,4,02/11/2021
+427,Myiarchus tuberculifer,7,"Flycatcher, tyrant",Trixi,1,10/11/2018
+428,Anas platyrhynchos,9,Mallard,Moshe,6,01/01/2017
+429,Myrmecophaga tridactyla,3,Giant anteater,Margarete,1,10/18/2019
+430,unavailable,5,Malay squirrel (unidentified),Marijo,4,09/04/2021
+431,Chlidonias leucopterus,4,White-winged black tern,Gawain,6,01/29/2023
+432,Alces alces,5,Moose,Laverna,6,10/02/2021
+433,Mazama americana,10,Red brocket,Jeth,3,05/07/2018
+434,Tiliqua scincoides,9,"Lizard, blue-tongued",Danna,8,12/16/2017
+435,Elephas maximus bengalensis,4,Asian elephant,Erasmus,4,12/20/2021
+436,Vanellus armatus,5,Blacksmith plover,Nita,8,12/15/2017
+437,Petaurus breviceps,5,"Glider, sugar",Clementina,3,08/10/2016
+438,Semnopithecus entellus,8,Common langur,Shayla,4,10/21/2020
+439,Podargus strigoides,8,Tawny frogmouth,Sarita,2,11/17/2021
+440,Macropus rufus,4,Red kangaroo,Courtney,9,06/21/2018
+441,Physignathus cocincinus,7,Asian water dragon,Merrily,3,11/07/2018
+442,Sarkidornis melanotos,6,"Duck, comb",Eberto,6,08/19/2016
+443,Choloepus hoffmani,3,"Sloth, two-toed",Dallas,4,12/29/2021
+444,Laniarius ferrugineus,8,Common boubou shrike,Kaia,3,03/27/2017
+445,Gyps bengalensis,8,Oriental white-backed vulture,Arni,3,01/23/2021
+446,Canis lupus lycaon,9,"Wolf, timber",Dory,7,11/05/2018
+447,Eutamias minimus,10,"Chipmunk, least",Darnall,2,11/25/2021
+448,Diomedea irrorata,9,"Albatross, waved",Dayna,5,02/11/2023
+449,Gyps bengalensis,6,Oriental white-backed vulture,Vince,6,10/24/2018
+450,Ictonyx striatus,6,"Polecat, african",Johna,4,08/26/2023
+451,Ploceus intermedius,3,"Weaver, lesser masked",Darwin,7,08/21/2016
+452,Tockus flavirostris,3,"Hornbill, yellow-billed",Gifford,5,02/26/2020
+453,Alopex lagopus,10,Arctic fox,Alika,8,11/06/2020
+454,Buteo galapagoensis,4,Galapagos hawk,Ebeneser,6,05/10/2018
+455,Kobus defassa,8,"Waterbuck, common",Dennie,4,03/19/2019
+456,Pycnonotus barbatus,4,"Bulbul, black-eyed",Abigale,3,05/24/2018
+457,Bassariscus astutus,10,Ringtail,Garvey,7,08/16/2016
+458,Aegypius tracheliotus,10,"Vulture, black",Harmonia,5,07/29/2017
+459,Funambulus pennati,8,"Squirrel, palm",Stevy,5,03/21/2019
+460,Agelaius phoeniceus,7,"Blackbird, red-winged",Aeriel,5,06/22/2022
+461,Anas bahamensis,4,Bahama pintail,Christel,6,05/18/2019
+462,Semnopithecus entellus,5,Gray langur,Emmit,9,01/25/2017
+463,Cygnus buccinator,10,"Swan, trumpeter",Parnell,3,04/23/2019
+464,Branta canadensis,3,Canada goose,Zoe,1,01/01/2019
+465,Numida meleagris,4,"Fowl, helmeted guinea",Kellie,9,01/31/2021
+466,Varanus sp.,6,Ground monitor (unidentified),Mayor,7,10/06/2019
+467,Chionis alba,8,"Sheathbill, snowy",Gates,5,02/01/2020
+468,Oxybelis fulgidus,6,Green vine snake,Cris,5,11/20/2018
+469,Aonyx capensis,5,Cape clawless otter,Ernestus,7,12/07/2022
+470,Mabuya spilogaster,3,"Skink, african",Isacco,3,11/05/2023
+471,Francolinus coqui,9,Coqui partridge,Hetty,2,08/15/2018
+472,Neotis denhami,10,Stanley bustard,Humberto,3,05/26/2020
+473,Lepus townsendii,6,White-tailed jackrabbit,Ainslie,9,06/26/2023
+474,Cynictis penicillata,5,"Mongoose, yellow",Selma,3,09/17/2020
+475,Nasua nasua,10,"Coatimundi, ring-tailed",Tamas,7,03/16/2024
+476,Lutra canadensis,6,"Otter, canadian river",Roz,5,04/17/2019
+477,Crotaphytus collaris,9,Collared lizard,Zane,1,06/27/2016
+478,Sauromalus obesus,3,Chuckwalla,Marj,8,10/26/2020
+479,unavailable,4,Red-winged hawk (unidentified),Loralyn,7,12/03/2019
+480,Boselaphus tragocamelus,6,Nilgai,Broderick,5,07/16/2023
+481,Crotalus triseriatus,6,Dusky rattlesnake,Derril,1,02/13/2023
+482,Francolinus coqui,4,"Francolin, coqui",Demetra,8,04/01/2023
+483,Salvadora hexalepis,4,Western patch-nosed snake,Braden,8,05/25/2018
+484,Felis yagouaroundi,7,Jaguarundi,Sherlocke,9,02/15/2023
+485,Taurotagus oryx,3,Common eland,Michal,3,02/07/2022
+486,Herpestes javanicus,3,"Mongoose, small indian",Shelby,6,11/19/2021
+487,Crotalus adamanteus,7,Eastern diamondback rattlesnake,Charmain,6,10/09/2019
+488,Trichosurus vulpecula,7,"Possum, golden brush-tailed",Cody,8,02/28/2020
+489,Parus atricapillus,5,"Chickadee, black-capped",Mylo,5,04/04/2024
+490,Pseudocheirus peregrinus,3,Common ringtail,Marena,2,09/25/2021
+491,Pytilia melba,6,Common melba finch,Jarret,5,02/16/2023
+492,unavailable,3,South American meadowlark (unidentified),Jolee,8,05/03/2019
+493,Elephas maximus bengalensis,5,Asian elephant,Cleon,6,11/20/2018
+494,Acrantophis madagascariensis,4,"Constrictor, eastern boa",Althea,3,09/11/2016
+495,Macropus giganteus,9,"Kangaroo, eastern grey",Reube,9,10/02/2021
+496,Macropus rufogriseus,10,Red-necked wallaby,Dur,4,10/23/2020
+497,Zalophus californicus,6,"Lion, california sea",Billy,2,04/15/2021
+498,Streptopelia senegalensis,8,Little brown dove,Ozzie,1,01/10/2022
+499,Myiarchus tuberculifer,4,"Flycatcher, tyrant",Karoly,3,12/19/2016
+500,Lamprotornis nitens,9,"Starling, cape",Reinald,3,08/02/2017
+501,Trichoglossus chlorolepidotus,9,Scaly-breasted lorikeet,Juana,3,01/05/2023
+502,Ardea golieth,5,Giant heron,Allin,8,03/18/2019
+503,Deroptyus accipitrinus,4,Hawk-headed parrot,West,7,02/04/2020
+504,Lama pacos,8,Alpaca,Corenda,4,02/26/2022
+505,Aegypius occipitalis,3,"Vulture, white-headed",Hilarius,7,09/05/2021
+506,Buteo jamaicensis,8,Red-tailed hawk,Brendis,2,06/22/2017
+507,Tachyglossus aculeatus,7,"Anteater, australian spiny",Murdoch,5,02/11/2024
+508,Cacatua tenuirostris,10,"Corella, long-billed",Ferd,7,01/26/2022
+509,Phalacrocorax varius,3,"Cormorant, pied",Essa,3,10/05/2021
+510,Dicrostonyx groenlandicus,7,Arctic lemming,Georgie,9,07/05/2018
+511,Phoeniconaias minor,6,Lesser flamingo,Zerk,6,01/30/2020
+512,Hippotragus equinus,10,Roan antelope,Ilysa,8,02/10/2019
+513,Tamiasciurus hudsonicus,5,"Squirrel, red",Roby,8,06/16/2022
+514,Hystrix cristata,4,African porcupine,Audie,4,09/12/2022
+515,Junonia genoveua,10,Genoveva,Maximilianus,2,03/18/2020
+516,Sula dactylatra,4,"Booby, masked",Nanine,3,10/04/2017
+517,Choriotis kori,4,"Bustard, kori",Tulley,4,04/24/2021
+518,Macropus parryi,5,Whip-tailed wallaby,Abey,2,04/20/2017
+519,Ictonyx striatus,8,Zorilla,Lynda,7,08/05/2017
+520,Macaca radiata,4,"Macaque, bonnet",Anissa,8,04/02/2017
+521,Theropithecus gelada,8,Bleeding heart monkey,Petrina,4,12/01/2021
+522,Paraxerus cepapi,7,"Squirrel, grey-footed",Carole,4,12/22/2017
+523,Priodontes maximus,9,Giant armadillo,Titos,4,03/01/2018
+524,Ateles paniscus,7,"Monkey, black spider",Nobe,5,09/03/2023
+525,Turtur chalcospilos,4,Emerald-spotted wood dove,Evie,9,04/06/2020
+526,Diomedea irrorata,10,"Albatross, galapagos",Corrina,9,10/31/2018
+527,Capra ibex,5,Ibex,Lotty,5,03/10/2018
+528,Ramphastos tucanus,9,White-throated toucan,Finley,6,12/23/2023
+529,Mirounga leonina,3,"Seal, southern elephant",Jaquenetta,1,07/26/2017
+530,Choloepus hoffmani,4,Two-toed tree sloth,Delmore,5,02/19/2017
+531,Rhea americana,8,"Rhea, greater",Israel,6,02/12/2021
+532,Vombatus ursinus,10,"Wombat, common",Granthem,7,02/17/2021
+533,Erinaceus frontalis,3,"Hedgehog, south african",Ruby,9,07/11/2018
+534,Phalacrocorax brasilianus,10,Neotropic cormorant,Sharona,5,02/10/2023
+535,Lepus arcticus,3,"Hare, arctic",Bartram,1,06/08/2022
+536,Coendou prehensilis,10,Tree porcupine,Vincents,4,11/14/2022
+537,Morelia spilotes variegata,4,"Python, carpet",Jeremie,1,01/18/2019
+538,Platalea leucordia,3,White spoonbill,Reidar,8,10/20/2021
+539,Anser caerulescens,4,"Goose, snow",Sammie,5,07/26/2020
+540,Procyon lotor,6,Common raccoon,Julieta,7,02/23/2022
+541,Lutra canadensis,6,"Otter, canadian river",Atlanta,9,01/04/2022
+542,Tiliqua scincoides,6,Blue-tongued skink,Nadya,6,07/21/2022
+543,Sarkidornis melanotos,7,Comb duck,Lelia,9,07/08/2021
+544,unavailable,5,Paddy heron (unidentified),Rickey,1,10/28/2021
+545,Thamnolaea cinnmomeiventris,7,Mocking cliffchat,Nada,2,08/29/2023
+546,Aonyx capensis,8,"Otter, african clawless",Celinka,7,04/16/2023
+547,Francolinus coqui,3,"Partridge, coqui",Pauli,9,11/05/2018
+548,Felis pardalis,9,Ocelot,Auguste,6,07/04/2017
+549,Pan troglodytes,10,Chimpanzee,Koralle,5,10/12/2023
+550,Lasiorhinus latifrons,3,"Wombat, southern hairy-nosed",Theadora,2,07/19/2018
+551,Phoca vitulina,7,Harbor seal,Constance,3,11/26/2023
+552,Tamiasciurus hudsonicus,6,Red squirrel,Nefen,1,01/23/2017
+553,Pseudocheirus peregrinus,8,"Ringtail, common",Layla,2,12/03/2020
+554,Anas platyrhynchos,3,Mallard,Ingram,6,06/07/2018
+555,Cereopsis novaehollandiae,8,"Goose, cape barren",Keefe,3,06/09/2016
+556,Melanerpes erythrocephalus,6,"Woodpecker, red-headed",Billy,8,03/27/2019
+557,Trichoglossus haematodus moluccanus,4,Rainbow lory,Fey,5,08/14/2016
+558,Meles meles,6,"Badger, european",Arlin,4,08/18/2022
+559,Ovis orientalis,6,Urial,Alwyn,6,04/08/2018
+560,Didelphis virginiana,9,American Virginia opossum,Sidnee,7,07/22/2023
+561,Vanellus chilensis,4,"Lapwing, southern",Riva,4,10/27/2022
+562,Merops nubicus,7,Nubian bee-eater,Beryle,9,01/02/2021
+563,Amblyrhynchus cristatus,9,Marine iguana,Alaine,8,02/04/2023
+564,Bucephala clangula,7,"Goldeneye, common",Sherm,5,06/30/2023
+565,Drymarchon corias couperi,6,"Snake, eastern indigo",Marilee,8,11/27/2019
+566,Paroaria gularis,6,"Cardinal, red-capped",Caril,3,03/31/2022
+567,Marmota monax,3,Groundhog,Alyson,4,02/21/2017
+568,Gopherus agassizii,5,Desert tortoise,Jennine,4,10/18/2018
+569,Upupa epops,8,Eurasian hoopoe,Ellie,9,02/15/2022
+570,Geococcyx californianus,6,"Roadrunner, greater",Pia,2,08/18/2022
+571,Tenrec ecaudatus,6,Tailless tenrec,Brody,4,07/22/2020
+572,Ursus americanus,5,Black bear,Brian,5,10/16/2022
+573,Myiarchus tuberculifer,8,Tyrant flycatcher,Ario,5,02/12/2017
+574,Certotrichas paena,5,Kalahari scrub robin,Aubry,9,06/25/2017
+575,Ramphastos tucanus,9,"Toucan, white-throated",Shurlock,1,03/17/2022
+576,Anthropoides paradisea,3,Blue crane,Barny,5,12/21/2019
+577,Lycaon pictus,5,African wild dog,Viviyan,1,02/20/2020
+578,Microcebus murinus,6,"Lemur, lesser mouse",Paolina,3,03/10/2019
+579,Canis lupus lycaon,8,Timber wolf,Gretel,4,01/07/2018
+580,Lophoaetus occipitalis,7,"Eagle, long-crested hawk",Earl,1,11/09/2018
+581,Alouatta seniculus,8,"Monkey, red howler",Johannes,5,09/29/2021
+582,Gorilla gorilla,8,Western lowland gorilla,Alecia,8,04/25/2018
+583,Myrmecophaga tridactyla,4,"Anteater, giant",Flor,6,07/26/2016
+584,Equus burchelli,10,"Zebra, plains",Angelika,1,08/30/2020
+585,unavailable,5,Lizard (unidentified),Wright,4,10/24/2020
+586,Alligator mississippiensis,3,"Alligator, american",Reiko,8,06/27/2023
+587,Gymnorhina tibicen,4,"Magpie, black-backed",Lesley,1,11/06/2023
+588,Myotis lucifugus,5,"Bat, little brown",Glenine,4,11/22/2018
+589,Cyrtodactylus louisiadensis,10,"Gecko, bent-toed",Gwenneth,2,05/28/2017
+590,Terathopius ecaudatus,9,Bateleur eagle,Mordy,3,09/20/2017
+591,Ardea cinerea,4,Grey heron,Pollyanna,4,09/28/2018
+592,Nyctanassa violacea,10,"Heron, yellow-crowned night",Austen,1,11/14/2022
+593,Bassariscus astutus,6,"Cat, miner's",Mirabelle,9,09/15/2018
+594,Rhea americana,4,"Rhea, greater",Read,4,03/26/2021
+595,Tamandua tetradactyla,3,"Tamandua, southern",Karita,7,06/07/2016
+596,Himantopus himantopus,6,"Stilt, black-winged",Tessy,8,10/02/2022
+597,Macropus rufus,10,"Kangaroo, red",Eleanora,6,12/30/2020
+598,Bettongia penicillata,9,Brush-tailed bettong,Gerry,6,07/30/2020
+599,Ictalurus furcatus,4,"Catfish, blue",Saxon,4,09/07/2017
+600,Passer domesticus,9,House sparrow,Drusy,3,03/11/2020
+601,Dacelo novaeguineae,5,Laughing kookaburra,Malinde,4,05/10/2024
+602,Acridotheres tristis,9,"Mynah, indian",Caleb,7,05/05/2024
+603,Tringa glareola,9,"Sandpiper, spotted wood",Koren,9,10/22/2019
+604,Zonotrichia capensis,3,Rufous-collared sparrow,Agneta,7,01/17/2024
+605,Corythornis cristata,7,"Kingfisher, malachite",Florella,8,06/21/2018
+606,Caiman crocodilus,5,Spectacled caiman,Charlean,8,12/01/2016
+607,Eumetopias jubatus,6,Steller sea lion,Gertrud,8,06/21/2019
+608,Felis serval,3,Serval,Renard,6,03/07/2019
+609,Deroptyus accipitrinus,9,"Parrot, hawk-headed",Marcello,5,10/18/2017
+610,Recurvirostra avosetta,5,"Avocet, pied",Dahlia,2,09/20/2020
+611,Erethizon dorsatum,8,"Porcupine, north american",Hagen,5,08/07/2017
+612,Giraffe camelopardalis,10,Giraffe,Billy,5,05/01/2022
+613,Marmota monax,3,Woodchuck,Agata,9,05/20/2017
+614,Ammospermophilus nelsoni,10,"Squirrel, antelope ground",Gennie,1,05/25/2018
+615,Naja haje,8,"Viper, egyptian",Jewelle,5,09/26/2017
+616,Ardea golieth,3,Giant heron,Gabriele,8,02/15/2021
+617,Pterocles gutturalis,7,Yellow-throated sandgrouse,Pete,4,11/25/2018
+618,Ratufa indica,5,"Squirrel, malabar",Herbert,9,02/15/2017
+619,Ploceus intermedius,9,"Weaver, lesser masked",Marjie,5,01/24/2024
+620,Physignathus cocincinus,4,Asian water dragon,Reamonn,2,10/08/2018
+621,Eremophila alpestris,4,Horned lark,Dukey,6,12/13/2022
+622,Felis concolor,5,Puma,Nicola,1,02/15/2022
+623,Pitangus sulphuratus,6,"Kiskadee, great",Fons,9,08/27/2016
+624,Haliaeetus leucocephalus,10,"Eagle, bald",Norby,2,08/13/2021
+625,Didelphis virginiana,3,"Opossum, american virginia",Roseanne,5,08/07/2023
+626,Columba palumbus,5,Ring dove,Damita,2,09/09/2018
+627,Perameles nasuta,10,"Bandicoot, long-nosed",Christen,4,11/17/2020
+628,Charadrius tricollaris,7,Three-banded plover,Dolf,9,01/12/2017
+629,Cervus elaphus,7,Red deer,Berri,7,11/23/2016
+630,Bubalus arnee,7,Asian water buffalo,Karlie,8,12/18/2022
+631,Pelecanus occidentalis,7,"Pelican, brown",Genvieve,3,07/04/2018
+632,Butorides striatus,3,Green-backed heron,Wylma,6,06/03/2021
+633,Neotis denhami,6,"Bustard, stanley",Kaycee,3,01/14/2017
+634,Laniarius ferrugineus,5,"Shrike, common boubou",Fax,9,01/30/2023
+635,Phasianus colchicus,5,Ring-necked pheasant,Maritsa,5,05/06/2023
+636,Sciurus vulgaris,8,"Squirrel, european red",Niccolo,2,10/25/2018
+637,Equus hemionus,10,Onager,Georgie,4,12/09/2020
+638,Lemur catta,9,Ring-tailed lemur,Hayley,6,03/17/2024
+639,Agkistrodon piscivorus,4,"Moccasin, water",Vincenty,2,05/31/2018
+640,Lasiorhinus latifrons,3,Southern hairy-nosed wombat,Alaine,1,08/27/2022
+641,Tringa glareola,6,"Sandpiper, spotted wood",Rozalie,3,07/12/2017
+642,Nucifraga columbiana,3,Clark's nutcracker,Nicolina,1,09/23/2016
+643,Snycerus caffer,10,African buffalo,Carlen,5,01/10/2022
+644,Aonyx capensis,6,African clawless otter,Terra,5,09/25/2022
+645,Procyon cancrivorus,7,"Raccoon, crab-eating",Chen,9,04/09/2020
+646,Nycticorax nycticorax,4,Black-crowned night heron,Ester,2,07/23/2017
+647,Alopex lagopus,7,"Fox, arctic",Boot,3,10/01/2021
+648,Ramphastos tucanus,3,"Toucan, white-throated",Andrey,9,06/08/2017
+649,Eudyptula minor,4,Fairy penguin,Waldo,7,06/16/2017
+650,Francolinus leucoscepus,5,"Spurfowl, yellow-necked",Emera,8,02/16/2019
+651,Platalea leucordia,9,"Spoonbill, white",Magdalen,3,04/11/2017
+652,Castor canadensis,4,"Beaver, american",Tomasina,3,06/04/2020
+653,Damaliscus dorcas,5,Bontebok,Nadya,4,02/19/2022
+654,Spilogale gracilis,6,"Skunk, western spotted",Matelda,2,12/07/2021
+655,Merops sp.,8,Bee-eater (unidentified),Darrin,5,09/10/2018
+656,Delphinus delphis,9,Common dolphin,Sigismundo,2,09/05/2021
+657,Trichoglossus haematodus moluccanus,5,Rainbow lory,Zsa zsa,2,10/19/2021
+658,Cygnus buccinator,7,"Swan, trumpeter",Pryce,3,12/10/2017
+659,Sula dactylatra,8,"Booby, blue-faced",Elora,7,11/15/2018
+660,Pteronura brasiliensis,8,"Otter, brazilian",Rochella,3,02/11/2021
+661,Himantopus himantopus,4,Black-winged stilt,Lamar,3,03/08/2023
+662,Bassariscus astutus,5,"Cat, civet",Carrissa,5,02/16/2024
+663,Cercopithecus aethiops,9,Vervet monkey,Natalee,9,06/13/2016
+664,Fregata magnificans,4,"Bird, magnificent frigate",Rick,8,02/06/2023
+665,Fregata magnificans,10,"Bird, magnificent frigate",Haily,3,07/06/2017
+666,Gyps fulvus,7,"Vulture, griffon",Gerhard,2,12/31/2017
+667,Scolopax minor,9,"Woodcock, american",Conn,5,01/19/2017
+668,Ovis ammon,9,Red sheep,Caty,3,04/02/2019
+669,Coluber constrictor,6,Buttermilk snake,Lodovico,6,09/19/2022
+670,unavailable,10,African snake (unidentified),Elysha,3,05/04/2023
+671,Hyaena hyaena,9,"Hyena, striped",Reamonn,1,10/03/2020
+672,unavailable,6,Lizard (unidentified),Noelle,5,04/11/2017
+673,Boa constrictor mexicana,7,"Boa, mexican",Dorry,7,02/13/2022
+674,Dicrostonyx groenlandicus,8,"Lemming, collared",Lou,6,12/22/2018
+675,Ardea cinerea,6,"Heron, gray",Wendye,3,12/21/2019
+676,Corallus hortulanus cooki,6,"Boa, cook's tree",Carey,2,08/07/2023
+677,Dasypus novemcinctus,10,Common long-nosed armadillo,Dora,9,01/25/2022
+678,Phalaropus lobatus,7,"Phalarope, red-necked",Jeralee,1,07/30/2022
+679,Erethizon dorsatum,6,"Porcupine, north american",Pieter,8,06/01/2017
+680,Madoqua kirkii,6,"Dik, kirk's dik",Dalila,7,11/20/2019
+681,Papio ursinus,9,Chacma baboon,Silvain,7,06/04/2020
+682,Libellula quadrimaculata,7,Four-spotted skimmer,Bastian,1,02/21/2017
+683,Dusicyon thous,5,"Fox, crab-eating",Eula,3,09/27/2023
+684,Macaca fuscata,9,Japanese macaque,Chicky,9,07/10/2019
+685,Iguana iguana,9,"Iguana, common green",Gabey,9,11/01/2021
+686,Nannopterum harrisi,5,"Cormorant, flightless",Giustino,7,04/05/2022
+687,Eubalaena australis,4,"Whale, southern right",Pedro,1,04/02/2023
+688,Snycerus caffer,5,"Buffalo, african",Bud,2,04/22/2020
+689,Macropus agilis,6,Agile wallaby,Corbie,8,02/21/2024
+690,Agelaius phoeniceus,5,Red-winged blackbird,Ramonda,3,07/16/2022
+691,Corvus albicollis,9,"Raven, white-necked",Dolph,7,10/13/2023
+692,Hystrix indica,4,"Porcupine, indian",Brunhilde,3,05/13/2019
+693,Cebus albifrons,7,"Capuchin, white-fronted",Ddene,1,07/31/2019
+694,Macaca mulatta,9,Rhesus macaque,Clarissa,8,05/04/2023
+695,Choloepus hoffmani,7,"Sloth, two-toed tree",Ermina,6,08/09/2019
+696,Porphyrio porphyrio,4,Purple moorhen,Roxana,3,10/11/2019
+697,Theropithecus gelada,6,"Monkey, bleeding heart",Saxon,7,10/29/2017
+698,Mabuya spilogaster,4,African skink,Benedetto,4,07/24/2019
+699,Ara macao,5,"Macaw, scarlet",Zachery,4,03/20/2020
+700,Halcyon smyrnesis,5,"Kingfisher, white-throated",Gonzales,3,10/24/2020
+701,Otaria flavescens,5,"Lion, south american sea",Randee,3,03/20/2023
+702,Acrantophis madagascariensis,5,Malagasy ground boa,Prent,6,09/19/2017
+703,Perameles nasuta,4,"Bandicoot, long-nosed",Shanna,7,06/17/2021
+704,Ephipplorhynchus senegalensis,10,Saddle-billed stork,Reba,5,05/31/2023
+705,Microcavia australis,7,Cuis,Velma,4,01/23/2024
+706,Eudromia elegans,10,"Tinamou, elegant crested",Leroi,3,11/09/2019
+707,Bugeranus caruncalatus,3,Wattled crane,Joannes,2,05/19/2017
+708,Felis concolor,6,"Lion, mountain",Ody,5,05/26/2024
+709,Estrilda erythronotos,10,Black-cheeked waxbill,Egon,3,08/03/2018
+710,Macropus rufus,4,Red kangaroo,Tedmund,2,10/13/2017
+711,Mazama gouazoubira,3,"Deer, savannah",Corrine,1,04/20/2019
+712,Dendrocygna viduata,4,"Duck, white-faced whistling",Archaimbaud,6,12/21/2018
+713,Larus novaehollandiae,9,Silver gull,Greggory,1,02/08/2021
+714,Drymarchon corias couperi,4,Eastern indigo snake,Benjie,2,07/12/2021
+715,Otaria flavescens,6,"Lion, southern sea",Lexis,5,10/09/2023
+716,Pelecans onocratalus,10,"Pelican, eastern white",Elbertine,2,11/24/2020
+717,Psophia viridis,9,Dark-winged trumpeter,Heath,5,04/14/2021
+718,Felis concolor,3,South American puma,Sherlock,1,02/24/2017
+719,Bison bison,7,"Buffalo, american",Natasha,1,01/16/2024
+720,Dasypus novemcinctus,8,Common long-nosed armadillo,Zachary,1,06/25/2017
+721,Dipodomys deserti,8,"Rat, desert kangaroo",Milicent,4,12/16/2017
+722,Psophia viridis,3,Green-winged trumpeter,Lucretia,5,04/10/2023
+723,Libellula quadrimaculata,4,Four-spotted skimmer,Obed,8,12/12/2020
+724,Eolophus roseicapillus,3,Galah,Alexa,3,02/26/2017
+725,Ploceus rubiginosus,4,Chestnut weaver,Xylia,5,09/26/2023
+726,Alcelaphus buselaphus cokii,5,Coke's hartebeest,Wendi,4,01/10/2024
+727,Felis caracal,8,"Lynx, african",Barrett,8,04/23/2018
+728,Nasua narica,4,White-nosed coatimundi,Shannan,1,07/04/2018
+729,Upupa epops,5,"Hoopoe, eurasian",Eddy,3,02/11/2020
+730,Lybius torquatus,10,Black-collared barbet,Neille,6,07/01/2018
+731,Eolophus roseicapillus,4,Galah,Renado,5,01/20/2017
+732,Equus burchelli,4,"Zebra, plains",Florina,7,04/19/2024
+733,Erinaceus frontalis,3,South African hedgehog,Carley,3,03/01/2023
+734,Cebus apella,7,"Capuchin, brown",Didi,7,02/24/2023
+735,Redunca redunca,9,Bohor reedbuck,Richard,9,04/05/2022
+736,Taurotagus oryx,7,Common eland,Eleonore,9,10/21/2017
+737,Macropus eugenii,5,Dama wallaby,Patty,9,01/23/2020
+738,Sitta canadensis,3,Red-breasted nuthatch,Frants,4,01/02/2023
+739,Phalaropus lobatus,7,"Phalarope, red-necked",Quent,1,01/09/2017
+740,Phascogale calura,10,"Phascogale, red-tailed",Renato,6,07/26/2016
+741,Speotyte cuniculata,10,Burrowing owl,Ted,4,03/23/2020
+742,Salvadora hexalepis,6,Western patch-nosed snake,Pace,5,08/22/2020
+743,Taurotagus oryx,3,Common eland,Ronnie,8,02/02/2023
+744,Paradoxurus hermaphroditus,4,Paradoxure,Shanda,1,04/30/2021
+745,Canis mesomelas,3,Black-backed jackal,Stanislaus,1,04/03/2018
+746,Mabuya spilogaster,5,African skink,Daryl,3,12/10/2023
+747,Chlamydosaurus kingii,9,Frilled dragon,Eugenie,6,11/07/2018
+748,Helogale undulata,10,Eastern dwarf mongoose,Yasmin,9,08/19/2016
+749,Genetta genetta,9,"Genet, small-spotted",Weylin,3,02/24/2021
+750,Leprocaulinus vipera,7,"Insect, stick",Bernadene,6,06/04/2018
+751,Aegypius tracheliotus,3,"Vulture, lappet-faced",Gavra,5,09/19/2019
+752,Dasyprocta leporina,8,Agouti,Vitoria,7,09/21/2019
+753,Thylogale stigmatica,3,Red-legged pademelon,Bev,8,01/05/2018
+754,Castor canadensis,5,"Beaver, north american",Booth,9,12/13/2018
+755,Tachyglossus aculeatus,4,Australian spiny anteater,Domingo,6,11/24/2017
+756,Axis axis,7,"Deer, spotted",Belvia,2,09/24/2023
+757,Haematopus ater,6,"Curlew, black",Chrisy,4,06/23/2021
+758,Spheniscus mendiculus,7,Galapagos penguin,Jerald,7,09/26/2018
+759,Papio cynocephalus,3,"Baboon, olive",Bessy,3,11/16/2016
+760,Ictonyx striatus,6,Zorilla,Robbie,9,09/30/2017
+761,Lycaon pictus,7,"Dog, african wild",Eleanora,5,02/04/2021
+762,Otaria flavescens,10,Southern sea lion,Irma,1,10/04/2023
+763,Uraeginthus granatina,9,Violet-eared waxbill,Di,2,01/25/2021
+764,Coendou prehensilis,4,Tree porcupine,Corrine,6,07/10/2019
+765,Eolophus roseicapillus,10,Roseate cockatoo,Ford,1,03/09/2019
+766,Lorythaixoides concolor,10,Bare-faced go away bird,Rodd,9,11/08/2016
+767,Coracias caudata,3,Lilac-breasted roller,Adelle,2,07/17/2022
+768,Dipodomys deserti,7,Desert kangaroo rat,Lexine,8,09/20/2018
+769,Speotyte cuniculata,6,Burrowing owl,Edsel,8,06/13/2022
+770,Ramphastos tucanus,5,"Toucan, red-billed",Jacinta,8,05/09/2024
+771,Pelecanus conspicillatus,5,"Pelican, australian",Aura,6,07/07/2023
+772,Loxodonta africana,6,"Elephant, african",Rosamund,2,10/11/2023
+773,Ursus americanus,6,"Bear, black",Gerri,2,05/05/2020
+774,Coluber constrictor,6,American racer,Rochell,3,01/09/2018
+775,Lemur catta,9,"Lemur, ring-tailed",Eda,7,05/22/2024
+776,Tiliqua scincoides,3,Blue-tongued lizard,Lacy,1,11/03/2020
+777,Madoqua kirkii,5,"Dik, kirk's dik",Kacie,4,05/31/2024
+778,Panthera pardus,6,"Leopard, indian",Berke,3,09/14/2017
+779,Branta canadensis,5,Canada goose,Glynnis,5,03/22/2017
+780,Uraeginthus granatina,4,Purple grenadier,Eva,6,11/30/2023
+781,Bradypus tridactylus,9,"Sloth, pale-throated three-toed",Jacky,8,12/12/2019
+782,Genetta genetta,6,"Genet, common",Genevra,9,10/29/2023
+783,Dasypus novemcinctus,7,"Armadillo, nine-banded",Abagail,1,08/24/2017
+784,Zosterops pallidus,7,Pale white-eye,Alleyn,8,05/31/2023
+785,Phalacrocorax varius,4,Pied cormorant,Tirrell,5,02/20/2022
+786,Delphinus delphis,6,Common dolphin,Delmore,2,12/07/2018
+787,Panthera pardus,9,Leopard,Claiborn,8,08/26/2023
+788,Eumetopias jubatus,5,"Lion, steller sea",Linea,1,05/07/2022
+789,Chloephaga melanoptera,10,"Goose, andean",Elwood,3,11/16/2023
+790,Phalacrocorax niger,5,Little cormorant,Lois,7,11/24/2019
+791,Phoenicopterus ruber,4,"Flamingo, roseat",Othello,6,12/15/2019
+792,Felis concolor,6,Puma,Renell,6,01/29/2019
+793,Spermophilus tridecemlineatus,3,"Squirrel, thirteen-lined",Zacharia,6,09/11/2020
+794,Oryx gazella callotis,6,Fringe-eared oryx,Angela,5,07/26/2017
+795,Acrantophis madagascariensis,9,"Boa, malagasy ground",Lemar,8,08/29/2022
+796,Alcelaphus buselaphus caama,4,"Hartebeest, red",Scotti,8,04/13/2018
+797,Ardea golieth,3,Giant heron,Marylou,5,06/15/2018
+798,Geococcyx californianus,10,Greater roadrunner,Lynelle,3,11/26/2017
+799,Dasypus septemcincus,4,"Armadillo, seven-banded",Felizio,5,10/21/2022
+800,Sarkidornis melanotos,7,Knob-nosed goose,Tonie,8,03/14/2022
+801,Gazella granti,10,"Gazelle, grant's",Roxie,8,01/09/2017
+802,Macropus rufus,4,Red kangaroo,Delphine,8,08/13/2022
+803,Deroptyus accipitrinus,7,Hawk-headed parrot,Letitia,2,08/07/2023
+804,Fratercula corniculata,7,"Puffin, horned",Hamid,1,08/18/2017
+805,Colobus guerza,9,Magistrate black colobus,Rica,4,11/04/2022
+806,Platalea leucordia,6,"Spoonbill, white",Abigail,2,06/09/2020
+807,Canis aureus,9,"Jackal, golden",Ronny,4,05/06/2022
+808,Paradoxurus hermaphroditus,10,Toddy cat,Tanhya,9,12/03/2016
+809,Himantopus himantopus,6,"Stilt, black-winged",Corinne,2,07/24/2017
+810,Microcebus murinus,8,"Lemur, grey mouse",Moria,6,12/07/2021
+811,Diceros bicornis,5,Black rhinoceros,Bank,3,07/17/2020
+812,Lamprotornis nitens,10,Red-shouldered glossy starling,Johann,8,09/28/2018
+813,Turtur chalcospilos,9,Emerald-spotted wood dove,Theda,3,01/28/2022
+814,Lorythaixoides concolor,6,Bare-faced go away bird,Correy,4,09/18/2016
+815,Anser anser,4,"Goose, greylag",Haleigh,3,06/15/2023
+816,Casmerodius albus,10,"Egret, great",Jo-ann,7,06/22/2023
+817,Streptopelia senegalensis,5,Laughing dove,Sheree,3,11/26/2023
+818,Tachyglossus aculeatus,8,"Anteater, australian spiny",Elwin,2,08/24/2023
+819,Physignathus cocincinus,5,"Dragon, asian water",Aubine,6,08/04/2018
+820,Amblyrhynchus cristatus,3,Marine iguana,Kearney,5,01/26/2022
+821,Eudyptula minor,7,Little blue penguin,Mariam,5,11/30/2016
+822,Zenaida galapagoensis,3,"Dove, galapagos",Haily,8,03/10/2017
+823,Uraeginthus bengalus,8,"Bleu, red-cheeked cordon",Valentin,6,04/21/2020
+824,Acrobates pygmaeus,8,"Possum, pygmy",Rockey,2,03/21/2021
+825,Morelia spilotes variegata,4,Carpet python,Dagmar,6,05/31/2023
+826,Bradypus tridactylus,6,"Sloth, pale-throated three-toed",Janice,3,03/18/2022
+827,Nyctanassa violacea,3,"Heron, yellow-crowned night",Fidelio,4,08/14/2017
+828,Phalacrocorax albiventer,5,King cormorant,Jeniffer,4,12/07/2017
+829,Snycerus caffer,4,"Buffalo, african",Inger,8,02/12/2022
+830,Felis silvestris lybica,10,"Cat, european wild",Eduardo,8,11/13/2022
+831,Globicephala melas,9,Long-finned pilot whale,Kelcey,3,03/13/2017
+832,Ovis ammon,9,Argalis,Yorke,3,03/03/2020
+833,Himantopus himantopus,10,"Stilt, black-winged",Gawen,6,05/06/2024
+834,Spermophilus lateralis,9,Golden-mantled ground squirrel,Rosette,1,11/03/2017
+835,Tachyglossus aculeatus,8,Short-beaked echidna,Averyl,6,05/05/2019
+836,Bettongia penicillata,7,Woylie,Melvin,7,01/25/2020
+837,Plegadis falcinellus,9,Glossy ibis,Alexia,5,10/03/2016
+838,Psophia viridis,8,"Trumpeter, green-winged",Drew,4,11/09/2023
+839,Eubalaena australis,9,"Whale, southern right",Holly,5,12/29/2021
+840,Bison bison,4,American buffalo,Duke,1,08/20/2016
+841,Antidorcas marsupialis,4,Springbok,Chrisse,6,09/12/2023
+842,Bubalus arnee,7,"Buffalo, wild water",Nadia,9,10/13/2018
+843,Rangifer tarandus,7,Reindeer,Emlynne,5,02/04/2018
+844,Cebus nigrivittatus,8,"Capuchin, weeper",Clarke,4,03/22/2017
+845,Bubo sp.,9,Eagle owl (unidentified),Rhianon,9,05/11/2019
+846,Meleagris gallopavo,7,Common turkey,Isidor,8,01/24/2017
+847,Paraxerus cepapi,8,Smith's bush squirrel,Raven,4,01/20/2018
+848,Hippotragus niger,7,"Antelope, sable",Tyne,6,11/14/2022
+849,Leptoptilus dubius,7,"Stork, greater adjutant",Van,2,07/30/2018
+850,Papilio canadensis,3,"Butterfly, canadian tiger swallowtail",Reena,4,09/06/2017
+851,Macaca nemestrina,3,Pig-tailed macaque,Gustav,3,11/05/2017
+852,Heloderma horridum,7,"Lizard, mexican beaded",Annabel,4,06/23/2023
+853,Trachyphonus vaillantii,3,"Barbet, levaillant's",Meade,1,12/29/2020
+854,Hymenolaimus malacorhynchus,7,"Duck, blue",Dannye,2,06/29/2022
+855,Sylvicapra grimma,6,Gray duiker,Nicolette,8,04/23/2020
+856,Neotis denhami,6,Denham's bustard,Gretel,4,05/04/2024
+857,Papio ursinus,9,"Baboon, chacma",Pieter,3,11/26/2020
+858,Lepilemur rufescens,3,Sportive lemur,Sapphire,5,07/30/2016
+859,Tamiasciurus hudsonicus,3,"Squirrel, red",Ezekiel,7,04/14/2022
+860,Phasianus colchicus,7,"Pheasant, ring-necked",Shelia,2,10/06/2021
+861,Tyto novaehollandiae,9,"Owl, australian masked",Freida,1,10/01/2023
+862,Acrantophis madagascariensis,6,"Boa, malagasy ground",Glennie,8,02/15/2022
+863,Centrocercus urophasianus,4,"Grouse, greater sage",Eolanda,4,07/27/2021
+864,Gazella granti,3,"Gazelle, grant's",Bambi,7,06/12/2022
+865,Fratercula corniculata,8,"Puffin, horned",Margeaux,3,11/07/2019
+866,Dusicyon thous,5,"Fox, savanna",Merla,4,04/07/2018
+867,Meles meles,6,"Badger, european",Katey,4,02/21/2019
+868,Alligator mississippiensis,10,"Alligator, american",Dyann,2,05/11/2020
+869,Nasua narica,10,"Coatimundi, white-nosed",Flossy,5,07/19/2020
+870,Lophoaetus occipitalis,5,"Eagle, long-crested hawk",Phyllida,1,06/15/2016
+871,Spizaetus coronatus,3,"Eagle, crowned",Stephen,9,07/22/2017
+872,Bucorvus leadbeateri,10,"Hornbill, southern ground",Gaspard,1,09/03/2017
+873,Dasypus novemcinctus,9,Nine-banded armadillo,Eloise,1,11/03/2018
+874,Spizaetus coronatus,8,Crowned eagle,Allin,7,06/06/2022
+875,Psophia viridis,8,"Trumpeter, dark-winged",Ari,3,12/25/2017
+876,Spheniscus magellanicus,5,"Penguin, magellanic",Kaylee,9,11/03/2019
+877,Leprocaulinus vipera,4,"Insect, stick",Hannah,4,01/15/2017
+878,Phalacrocorax niger,8,"Cormorant, little",Tildie,5,03/06/2024
+879,Phacochoerus aethiopus,3,Warthog,Lesli,8,05/20/2018
+880,Phascogale calura,6,Red-tailed phascogale,Jamey,3,01/13/2017
+881,Trichosurus vulpecula,9,"Possum, common brushtail",Victor,3,06/21/2020
+882,Corvus albus,10,Pied crow,Sallee,5,07/12/2016
+883,Nyctanassa violacea,10,"Heron, yellow-crowned night",Idette,7,03/09/2022
+884,Ciconia episcopus,7,White-necked stork,Ky,8,10/12/2018
+885,Ara chloroptera,4,Green-winged macaw,Raul,1,06/24/2019
+886,Uraeginthus granatina,3,Common grenadier,Bryanty,4,05/08/2024
+887,Geochelone radiata,7,"Tortoise, radiated",Adolphe,5,08/06/2020
+888,Pitangus sulphuratus,3,"Kiskadee, great",Daffie,3,10/03/2016
+889,Semnopithecus entellus,4,"Langur, hanuman",Cortney,6,03/04/2020
+890,Eudyptula minor,8,Little blue penguin,Marianne,5,08/03/2021
+891,unavailable,6,Paddy heron (unidentified),Imelda,1,01/22/2019
+892,Acinynox jubatus,3,Cheetah,Winny,3,05/09/2022
+893,Sylvilagus floridanus,8,"Rabbit, eastern cottontail",Bobby,5,06/20/2016
+894,Francolinus swainsonii,4,"Francolin, swainson's",Selma,5,01/20/2021
+895,Sauromalus obesus,9,Chuckwalla,Aili,9,12/16/2017
+896,Sciurus vulgaris,7,"Squirrel, eurasian red",Jany,4,02/08/2020
+897,Neotis denhami,10,Denham's bustard,Fenelia,3,07/23/2016
+898,Ramphastos tucanus,6,"Toucan, white-throated",Pail,5,03/21/2017
+899,Cervus elaphus,4,Red deer,Adolf,4,04/08/2017
+900,Hymenolaimus malacorhynchus,3,"Duck, mountain",Francesco,2,11/08/2016
+901,Macropus agilis,5,"Wallaby, river",Marline,6,11/05/2020
+902,Tapirus terrestris,7,"Tapir, brazilian",Virginie,2,03/16/2024
+903,Ardea cinerea,3,Gray heron,Duky,3,05/22/2018
+904,Taxidea taxus,6,American badger,Sayers,8,01/27/2021
+905,Dusicyon thous,3,"Zorro, common",Damita,5,03/08/2020
+906,Trichoglossus chlorolepidotus,10,"Lorikeet, scaly-breasted",Devy,1,03/31/2024
+907,Alcelaphus buselaphus cokii,6,Kongoni,Caralie,6,10/04/2019
+908,Globicephala melas,8,Long-finned pilot whale,Albertine,9,09/04/2022
+909,Tachyglossus aculeatus,8,"Echidna, short-beaked",Cedric,3,10/24/2017
+910,Genetta genetta,8,Small-spotted genet,Charley,5,06/26/2023
+911,Canis aureus,10,"Jackal, golden",Annetta,2,08/29/2023
+912,Pitangus sulphuratus,10,"Kiskadee, great",Jarred,2,11/01/2017
+913,Canis aureus,10,Asiatic jackal,Codie,6,10/28/2016
+914,Bison bison,8,American buffalo,Garey,5,06/07/2018
+915,Propithecus verreauxi,4,"Sifaka, verreaux's",Godfree,5,01/21/2019
+916,Genetta genetta,10,"Genet, small-spotted",Frank,4,12/14/2019
+917,Eremophila alpestris,6,Horned lark,Evy,1,12/02/2021
+918,Dusicyon thous,4,"Zorro, common",Alie,7,10/31/2023
+919,Vicugna vicugna,10,Vicuna,Joya,2,09/29/2023
+920,Centrocercus urophasianus,6,Sage hen,Grove,5,07/11/2023
+921,Otaria flavescens,6,"Lion, southern sea",Glenda,6,07/13/2023
+922,Crocuta crocuta,8,"Hyena, spotted",Joannes,7,04/13/2021
+923,Meles meles,10,European badger,Jillie,7,05/19/2023
+924,Pterocles gutturalis,9,Yellow-throated sandgrouse,Gipsy,1,01/13/2024
+925,Bubulcus ibis,6,"Egret, cattle",Gery,2,11/14/2016
+926,Trachyphonus vaillantii,9,"Barbet, levaillant's",Ian,1,11/06/2016
+927,Connochaetus taurinus,4,Brindled gnu,Cheri,6,01/17/2022
+928,Varanus sp.,8,Monitor lizard (unidentified),Jesselyn,1,03/05/2022
+929,Chauna torquata,7,Southern screamer,Vi,8,04/11/2020
+930,Caiman crocodilus,8,Spectacled caiman,Lemmie,6,01/24/2024
+931,unavailable,10,Bird (unidentified),Obadias,9,12/06/2022
+932,Lybius torquatus,5,Black-collared barbet,Orazio,3,12/26/2019
+933,Eira barbata,7,Tayra,Dara,5,11/29/2021
+934,Castor fiber,4,Eurasian beaver,Saloma,3,07/14/2016
+935,Delphinus delphis,5,"Dolphin, common",Kore,4,05/15/2019
+936,Bucephala clangula,7,"Goldeneye, common",Sinclare,5,01/01/2024
+937,Microcebus murinus,7,Grey mouse lemur,Cathee,4,03/13/2024
+938,Canis lupus,4,Common wolf,Onfroi,9,10/03/2020
+939,Limnocorax flavirostra,10,African black crake,Ricki,6,07/07/2021
+940,Rhabdomys pumilio,5,"Mouse, four-striped grass",Peg,4,02/10/2020
+941,Didelphis virginiana,5,"Opossum, american virginia",Evyn,6,02/21/2020
+942,Phascogale tapoatafa,6,Brush-tailed phascogale,Desirae,9,12/20/2017
+943,Acrantophis madagascariensis,5,"Constrictor, eastern boa",Caddric,2,04/06/2020
+944,Canis lupus baileyi,10,"Wolf, mexican",Mace,9,11/14/2022
+945,Kobus defassa,9,Common waterbuck,Ashbey,2,07/05/2020
+946,Ara chloroptera,5,"Macaw, green-winged",Eudora,6,10/20/2016
+947,Mustela nigripes,5,Black-footed ferret,Thaxter,3,10/13/2018
+948,Butorides striatus,5,Green heron,Arlan,5,01/26/2021
+949,Acridotheres tristis,9,"Mynah, indian",Janene,4,09/24/2017
+950,Myrmecophaga tridactyla,8,Giant anteater,Jannelle,8,02/02/2017
+951,Cebus nigrivittatus,3,Weeper capuchin,Lil,6,07/18/2021
+952,Megaderma spasma,5,"Bat, asian false vampire",Costanza,9,03/09/2021
+953,Dasyurus viverrinus,5,"Quoll, eastern",Tersina,2,01/06/2018
+954,Ciconia ciconia,10,White stork,Leisha,6,10/07/2016
+955,Castor fiber,6,European beaver,Fidelio,1,03/27/2019
+956,Microcebus murinus,9,Grey mouse lemur,Devinne,1,03/31/2019
+957,Geochelone elephantopus,6,"Tortoise, galapagos",Annnora,2,05/16/2017
+958,Creagrus furcatus,5,Swallow-tail gull,Petronella,2,12/19/2023
+959,Tetracerus quadricornis,3,"Antelope, four-horned",Angil,6,02/09/2024
+960,Bassariscus astutus,3,Civet cat,Carmina,1,11/24/2019
+961,Oncorhynchus nerka,4,Sockeye salmon,Giavani,9,09/16/2016
+962,Kobus leche robertsi,6,Kafue flats lechwe,Kayley,5,01/13/2018
+963,Spilogale gracilis,8,Western spotted skunk,Tammie,6,11/11/2018
+964,Megaderma spasma,5,Asian false vampire bat,Darlleen,5,05/06/2018
+965,Phalacrocorax niger,3,"Cormorant, javanese",Ichabod,5,08/30/2018
+966,Ara ararauna,3,Blue and gold macaw,Desdemona,3,04/05/2024
+967,Gazella granti,6,"Gazelle, grant's",Fayina,9,08/11/2021
+968,Tayassu pecari,9,White-lipped peccary,Orelle,4,12/11/2016
+969,Grus antigone,10,"Crane, sarus",Fay,4,12/12/2022
+970,Varanus salvator,10,Two-banded monitor,Ally,4,01/14/2018
+971,Dromaeus novaehollandiae,6,Emu,Fremont,1,03/17/2017
+972,Phalacrocorax brasilianus,9,Neotropic cormorant,Gusty,8,03/15/2021
+973,Phalacrocorax albiventer,3,King cormorant,Michaelina,7,07/07/2019
+974,Cacatua galerita,10,Sulfur-crested cockatoo,Lin,2,06/29/2016
+975,Climacteris melanura,9,Black-tailed tree creeper,Hobard,3,06/28/2016
+976,Cacatua tenuirostris,5,"Corella, long-billed",Marillin,9,11/01/2020
+977,Mephitis mephitis,9,Striped skunk,Jyoti,6,02/12/2024
+978,Tachyglossus aculeatus,9,Australian spiny anteater,Philippa,3,12/07/2019
+979,Mazama gouazoubira,3,"Deer, savannah",Tammi,4,09/26/2021
+980,Dipodomys deserti,8,"Rat, desert kangaroo",Katusha,5,01/10/2018
+981,Felis concolor,3,Puma,Bettina,8,06/09/2016
+982,Phalacrocorax niger,3,Javanese cormorant,Mathian,6,01/14/2023
+983,Sciurus niger,4,"Squirrel, eastern fox",Obadiah,3,04/08/2019
+984,Cacatua tenuirostris,5,"Cockatoo, long-billed",Elijah,7,06/20/2019
+985,Dipodomys deserti,3,"Rat, desert kangaroo",Fanchon,7,01/03/2021
+986,Canis lupus,7,"Wolf, common",Ned,2,01/30/2020
+987,Potorous tridactylus,4,Potoroo,Cecil,8,12/10/2017
+988,Junonia genoveua,5,Tropical buckeye butterfly,Christel,3,10/17/2019
+989,Chlamydosaurus kingii,8,"Lizard, frilled",Naomi,5,05/03/2024
+990,Bettongia penicillata,7,Woylie,Fulvia,4,11/10/2022
+991,Butorides striatus,10,"Heron, green",Charo,7,09/13/2016
+992,Bettongia penicillata,4,Brush-tailed rat kangaroo,Anabelle,1,04/08/2022
+993,Oxybelis sp.,3,Vine snake (unidentified),Sinclare,8,11/01/2016
+994,Tachyglossus aculeatus,8,Australian spiny anteater,Corbett,4,04/26/2019
+995,Dasypus novemcinctus,8,"Armadillo, nine-banded",Aloin,7,08/18/2019
+996,Nasua nasua,7,"Coatimundi, ring-tailed",Artie,6,11/06/2023
+997,Cervus canadensis,4,"Elk, Wapiti",Corinne,2,07/11/2022
+998,Lutra canadensis,5,North American river otter,Ree,4,08/23/2018
+999,Francolinus coqui,7,Coqui francolin,Olivette,3,01/01/2017
+1000,Otaria flavescens,3,"Lion, south american sea",Kirby,2,10/23/2022

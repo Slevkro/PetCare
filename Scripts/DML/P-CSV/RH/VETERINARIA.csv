@@ -1,0 +1,41 @@
+VETERINARIA_ID,NOMBRE,DIRECCION,LATITUD,LONGITUD,HORARIO_SEMANA_INICIO,HORARIO_SEMANA_FIN,HORARIO_SABADO_FIN,HORARIO_SABADO_INICIO,EMPLEADO_ID
+131,"Troy University, Phenix City",1,1,-77.550994,08:00:00,18:00:00,11:00:00,16:00:00,71
+132,Shandong University of Science and Technology,0,1,120.9617948,08:00:00,18:00:00,11:00:00,16:00:00,72
+133,"Florida Metropolitan University, Fort Lauderdale College",0,0,107.8968943,08:00:00,18:00:00,11:00:00,16:00:00,73
+134,Université Paris Sud (Paris XI),1,0,2.8002946,08:00:00,18:00:00,11:00:00,16:00:00,74
+135,Ecole Supérieure de Commerce de Pau,1,1,119.2998,08:00:00,18:00:00,11:00:00,16:00:00,75
+136,University of Mkar,1,0,29.7204853,08:00:00,18:00:00,11:00:00,16:00:00,76
+137,Kyoto University,1,0,38.9712949,08:00:00,18:00:00,11:00:00,16:00:00,77
+138,University of Missouri - Saint Louis,0,1,21.8727139,08:00:00,18:00:00,11:00:00,16:00:00,78
+139,Universidad Politécnica de Cartagena,1,1,10.8112885,08:00:00,18:00:00,11:00:00,16:00:00,79
+140,Canadian Sudanese College,0,0,108.408661,08:00:00,18:00:00,11:00:00,16:00:00,80
+141,Bahrain Polytechnic,0,1,111.6556388,08:00:00,18:00:00,11:00:00,16:00:00,81
+142,National Taras Shevchenko University of Kiev,1,1,-103.427389,08:00:00,18:00:00,11:00:00,16:00:00,82
+143,Yorker International University,1,1,124.014,08:00:00,18:00:00,11:00:00,16:00:00,83
+144,National University of Uzbekistan,0,1,-64.3084285,08:00:00,18:00:00,11:00:00,16:00:00,84
+145,California School of Professional Psychology - Fresno,1,1,117.09616,08:00:00,18:00:00,11:00:00,16:00:00,85
+146,Simpson College,0,1,43.0824192,08:00:00,18:00:00,11:00:00,16:00:00,86
+147,Medical University Pleven,0,0,123.2715608,08:00:00,18:00:00,11:00:00,16:00:00,87
+148,California College of Arts and Crafts,1,1,123.2648166,08:00:00,18:00:00,11:00:00,16:00:00,88
+149,Changchun University of Technology,0,0,4.8002333,08:00:00,18:00:00,11:00:00,16:00:00,89
+150,Rezekne Higher School,1,1,112.35518,08:00:00,18:00:00,11:00:00,16:00:00,90
+151,Galway Mayo Institute of Technology,1,1,112.5282043,08:00:00,18:00:00,11:00:00,16:00:00,91
+152,"University of Education, Winneba",1,0,100.5749629,08:00:00,18:00:00,11:00:00,16:00:00,92
+153,Université Senghor d'Alexandrie,1,1,109.011884,08:00:00,18:00:00,11:00:00,16:00:00,93
+154,Universidad Católica de Colombia,0,0,73.2723283,08:00:00,18:00:00,11:00:00,16:00:00,94
+155,St. Petersburg State Academy for Engineering Economics (ENGECON),1,0,2.7425682,08:00:00,18:00:00,11:00:00,16:00:00,95
+156,Universidad Técnica de Oruro,1,0,-6.3025448,08:00:00,18:00:00,11:00:00,16:00:00,96
+157,Chaopraya University ,1,0,16.0250895,08:00:00,18:00:00,11:00:00,16:00:00,97
+158,University of Burdwan,1,1,115.9608,08:00:00,18:00:00,11:00:00,16:00:00,98
+159,University of Engineering and Technology Peshawar,0,0,114.3371145,08:00:00,18:00:00,11:00:00,16:00:00,99
+160,West China University of Medical Sciences,0,1,110.040315,08:00:00,18:00:00,11:00:00,16:00:00,100
+161,"Newcastle University, Medicine Malaysia ",1,1,-82.4290869,08:00:00,18:00:00,11:00:00,16:00:00,101
+162,Academy of Economics in Wroclaw,0,1,120.556005,08:00:00,18:00:00,11:00:00,16:00:00,102
+163,Setsunan University,0,0,-65.180261,08:00:00,18:00:00,11:00:00,16:00:00,103
+164,Universidad Empresarial Mateo Kuljis,1,0,139.8280167,08:00:00,18:00:00,11:00:00,16:00:00,104
+165,Boston College,1,0,122.0185,08:00:00,18:00:00,11:00:00,16:00:00,105
+166,Mizan Tepi University,1,0,20.9335169,08:00:00,18:00:00,11:00:00,16:00:00,106
+167,Universidad Evangélica de El Salvador,0,1,16.1463317,08:00:00,18:00:00,11:00:00,16:00:00,107
+168,Memphis College of Art,1,0,114.445846,08:00:00,18:00:00,11:00:00,16:00:00,108
+169,Khulna University of Engineering And Technology,0,1,102.1089679,08:00:00,18:00:00,11:00:00,16:00:00,109
+170,University of Connecticut at Stamford,0,0,-111.96861,08:00:00,18:00:00,11:00:00,16:00:00,110

@@ -1,0 +1,101 @@
+catalogo_curso_id,nombre,descripcion
+1,Macropus eugenii,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+2,Eolophus roseicapillus,Phasellus in felis. Donec semper sapien a libero. Nam dui.
+3,Seiurus aurocapillus,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+4,Haematopus ater,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
+5,Mirounga angustirostris,Fusce consequat. Nulla nisl. Nunc nisl.
+6,Passer domesticus,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+7,Macropus fuliginosus,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+8,Dusicyon thous,Fusce consequat. Nulla nisl. Nunc nisl.
+9,Streptopelia decipiens,Phasellus in felis. Donec semper sapien a libero. Nam dui.
+10,Alces alces,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+11,Felis chaus,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
+12,Propithecus verreauxi,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+13,Dicrostonyx groenlandicus,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+14,Potamochoerus porcus,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+15,Ovis dalli stonei,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat."
+16,Vanellus chilensis,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+17,Choriotis kori,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+18,Felis silvestris lybica,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
+19,Stercorarius longicausus,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+20,Isoodon obesulus,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+21,Axis axis,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+22,Haliaeetus leucocephalus,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+23,Thalasseus maximus,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+24,Felis silvestris lybica,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+25,Certotrichas paena,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+26,Cynictis penicillata,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+27,Dendrocitta vagabunda,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
+28,Sarkidornis melanotos,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+29,Ictonyx striatus,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+30,Casmerodius albus,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+31,Cynictis penicillata,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+32,Macropus rufogriseus,In congue. Etiam justo. Etiam pretium iaculis justo.
+33,Marmota monax,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+34,Nannopterum harrisi,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+35,Physignathus cocincinus,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+36,Macropus rufogriseus,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+37,Papilio canadensis,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+38,Larus novaehollandiae,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
+39,Platalea leucordia,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+40,Nucifraga columbiana,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+41,Hyaena hyaena,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+42,Thamnolaea cinnmomeiventris,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+43,Eubalaena australis,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+44,Felis concolor,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+45,Kobus leche robertsi,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+46,Aonyx capensis,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+47,Cacatua tenuirostris,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+48,Cervus duvauceli,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+49,Columba livia,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+50,Lepilemur rufescens,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+51,Kobus leche robertsi,In congue. Etiam justo. Etiam pretium iaculis justo.
+52,Haliaetus vocifer,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+53,Pseudocheirus peregrinus,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+54,Limosa haemastica,Phasellus in felis. Donec semper sapien a libero. Nam dui.
+55,Stercorarius longicausus,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+56,Corvus albus,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+57,Turtur chalcospilos,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem."
+58,Dasypus novemcinctus,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+59,Canis latrans,Phasellus in felis. Donec semper sapien a libero. Nam dui.
+60,Corallus hortulanus cooki,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+61,Ara macao,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+62,Cathartes aura,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+63,Bubulcus ibis,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
+64,Cacatua tenuirostris,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+65,Oncorhynchus nerka,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
+66,Tamiasciurus hudsonicus,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
+67,Trichosurus vulpecula,Phasellus in felis. Donec semper sapien a libero. Nam dui.
+68,Dacelo novaeguineae,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+69,Manouria emys,Fusce consequat. Nulla nisl. Nunc nisl.
+70,Phasianus colchicus,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+71,Uraeginthus granatina,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+72,Colobus guerza,In congue. Etiam justo. Etiam pretium iaculis justo.
+73,Zalophus californicus,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
+74,Ardea cinerea,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+75,Kobus vardonii vardoni,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem."
+76,Ardea cinerea,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+77,Macropus fuliginosus,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui."
+78,Chordeiles minor,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+79,Cervus duvauceli,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+80,Sterna paradisaea,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+81,Oryx gazella,Sed ante. Vivamus tortor. Duis mattis egestas metus.
+82,Anathana ellioti,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+83,Dusicyon thous,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+84,Columba livia,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+85,Lemur fulvus,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+86,Leprocaulinus vipera,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat."
+87,Uraeginthus granatina,In congue. Etiam justo. Etiam pretium iaculis justo.
+88,Bos taurus,In congue. Etiam justo. Etiam pretium iaculis justo.
+89,Bucorvus leadbeateri,In congue. Etiam justo. Etiam pretium iaculis justo.
+90,Sterna paradisaea,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+91,Crocuta crocuta,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+92,Neophoca cinerea,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+93,Ara ararauna,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+94,Melursus ursinus,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+95,Tragelaphus scriptus,Sed ante. Vivamus tortor. Duis mattis egestas metus.
+96,Melanerpes erythrocephalus,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+97,Carduelis pinus,In congue. Etiam justo. Etiam pretium iaculis justo.
+98,Anas bahamensis,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
+99,Axis axis,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+100,Crotalus cerastes,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
