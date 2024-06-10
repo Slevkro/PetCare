@@ -6,19 +6,21 @@
 whenever sqlerror exit rollback;
 
 
-Prompt conectando a petcare_venta
-alter session set container=petcare_venta;
+Prompt conectando a petcare_pdb_venta
+alter session set container=petcare_pdb_venta;
+startup
 
 Prompt Configurando OMF
 alter system set db_create_file_dest='+VENTA_TS' scope=memory;
 create tablespace venta_ts datafile size 20m autoextend on next 15m;
 Prompt Configurando OMF
 alter system set db_create_file_dest='+VENTA_AUX' scope=memory;
-create tablespace venta_idxs_ts datafile size size 10m autoextend on next 5m;
+create tablespace venta_idxs_ts datafile size 10m autoextend on next 5m;
 create tablespace venta_temp_ts datafile size 15m autoextend on next 10m;
 
-Prompt conectando a petcare_servicio
-alter session set container=petcare_servicio;
+Prompt conectando a petcare_pdb_servicio
+alter session set container=petcare_pdb_servicio;
+startup
 
 Prompt Configurando OMF
 alter system set db_create_file_dest='+SERVICIO_TS' scope=memory;
@@ -31,8 +33,9 @@ alter system set db_create_file_dest='+SERVICIO_AUX' scope=memory;
 create tablespace servicio_idxs_ts datafile size 10m autoextend on next 5m;
 create tablespace servicio_temp_ts datafile size 15m autoextend on next 10m;
 
-Prompt conectando a petcare_rh
-alter session set container=petcare_rh;
+Prompt conectando a petcare_pdb_rh
+alter session set container=petcare_pdb_rh;
+startup
 
 Prompt Configurando OMF
 alter system set db_create_file_dest='+EMPLEADO_TS' scope=memory;
@@ -44,5 +47,11 @@ Prompt Configurando OMF
 alter system set db_create_file_dest='+EMPLEADO_AUX' scope=memory;
 create tablespace empleado_idxs_ts datafile size 10m autoextend on next 5m;
 create tablespace empleado_temp_ts datafile size 15m autoextend on next 10m;
+
+
+
+-- Para eliminar algun tablespace  
+-- drop tablespace venta_ts including contents and datafiles;
+
 
 
