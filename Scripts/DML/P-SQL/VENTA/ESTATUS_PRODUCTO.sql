@@ -1,0 +1,4 @@
+insert into ESTATUS_PRODUCTO (ESTATUS_PRODUCTO_ID, VALOR, FECHA_ESTATUS) values (1, 'en_inventario', '19-May-2023');
+insert into ESTATUS_PRODUCTO (ESTATUS_PRODUCTO_ID, VALOR, FECHA_ESTATUS) values (2, 'vendido', '19-May-2023');
+insert into ESTATUS_PRODUCTO (ESTATUS_PRODUCTO_ID, VALOR, FECHA_ESTATUS) values (3, 'caduco', '19-May-2023');
+insert into ESTATUS_PRODUCTO (ESTATUS_PRODUCTO_ID, VALOR, FECHA_ESTATUS) values (4, 'retirado', '19-May-2023');
