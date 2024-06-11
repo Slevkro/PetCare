@@ -2,9 +2,9 @@
 --@Fecha: 03/11/2024
 --@Descripción: DDL para creación de tablas para el módulo SERVICIOS
 
-Prompt Creando TABLAS para el modulo de RH
-Prompt conectando a petcare_pdb_rh
-alter session set container=petcare_pdb_rh;
+Prompt Creando TABLAS para el modulo de SERVICIO
+Prompt conectando a petcare_pdb_servicio
+alter session set container=petcare_pdb_servicio;
 
 --------------------- TABLAS DE SERVICIO ----------------------------
 
