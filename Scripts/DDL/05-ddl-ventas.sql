@@ -2,6 +2,9 @@
 --@Fecha: 03/11/2024
 --@Descripción: DDL para creación de tablas para el módulo VENTAS
 
+Prompt Creando TABLAS para el modulo de RH
+Prompt conectando a petcare_pdb_rh
+alter session set container=petcare_pdb_rh;
 
 CREATE TABLE PET_C_VENTA.CATALOGO_CATEGORIA(
     CATALOGO_CATEGORIA_ID    NUMBER(10, 0)    NOT NULL,
