@@ -12,7 +12,7 @@ whenever sqlerror exit rollback;
 Prompt Creando usuario para el modulo de VENTA
 Prompt conectando a petcare_pdb_venta
 alter session set container=petcare_pdb_venta;
-startup
+--startup
 
 drop user pet_c_venta cascade;
 create user pet_c_venta identified by venta123
@@ -24,18 +24,14 @@ create user pet_c_venta identified by venta123
 grant create session, create table, create any index to pet_c_venta;
 grant sysbackup to pet_c_venta;
 
-connect pet_c_venta/venta123
-
 --drop user backup_usr cascade;
 --create user backup_usr identified by backup123 
 --  quota unlimited on users;
 
-grant sysbackup to backup_usr;
-
 Prompt Creando usuario para el modulo de Servicio 
 Prompt conectando a petcare_pdb_servicio
 alter session set container=petcare_pdb_servicio;
-startup
+--startup
 
 drop user pet_c_servicio cascade;
 create user pet_c_servicio identified by servicio123 
@@ -45,11 +41,12 @@ create user pet_c_servicio identified by servicio123
   quota unlimited on servicio_lob_ts;
 
 grant create session, create table, create any index to pet_c_servicio;
+grant sysbackup to pet_c_servicio;
 
 Prompt Creando usuario para el modulo de RH 
 Prompt conectando a petcare_pdb_rh
 alter session set container=petcare_pdb_rh;
-startup
+--startup
 
 drop user pet_c_rh cascade;
 create user pet_c_rh identified by rh123 
@@ -59,6 +56,7 @@ create user pet_c_rh identified by rh123
   quota unlimited on empleado_lob_ts;
 
 grant create session, create table, create any index to pet_c_rh;
+grant sysbackup to pet_c_rh;
 
 
 
