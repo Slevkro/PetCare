@@ -62,6 +62,7 @@ grant sysbackup to pet_c_rh;
 
 -- Para eliminar algun tablespace  
 -- drop tablespace venta_ts including contents and datafiles;
+-- select username from dba_users;
 
 
 
