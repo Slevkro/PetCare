@@ -2,7 +2,9 @@
 --@Fecha: 03/11/2024
 --@Descripción: DDL para creación de tablas para el módulo SERVICIOS
 
-whenever sqlerror exit rollback;
+Prompt Creando TABLAS para el modulo de SERVICIO
+Prompt conectando a petcare_pdb_servicio
+alter session set container=petcare_pdb_servicio;
 
 --------------------- TABLAS DE SERVICIO ----------------------------
 
