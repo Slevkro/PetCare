@@ -1,91 +1,69 @@
 --@Autor: Jorge Francisco Pereda Ceballos/ Brandon Cervantes Rubí / Alexis Isaac Alcocer Diaz
 --@Fecha creación: 03/06/2024
---@Descripción: Creación de usuarios para cada pdb.
-
-clear screen
-prompt Inciando creacion/eliminacion de usuarios.
-prompt =====================================
-prompt Creando usuario en petcare_venta
-prompt =====================================
-prompt Conectándose a pc_rh como usuario SYS
-connect sys/system@petcare_venta as sysdba
-
-@p-crea-usuario.sql
-
-DECLARE
-  v_tablespaces dbms_sql.varchar2_table;
-BEGIN
-  v_tablespaces(1) := 'VENTA_TS';
-  v_tablespaces(2) := 'VENTA_IDXS_TS';
-  v_tablespaces(3) := 'VENTA_TEMP_TS';
- 
-  exec p_crea_usuario('pc_venta', v_tablespaces);
-END;
-/
-
-prompt Asignando privilegios a pc_venta
-grant create type,create any directory,create database link,create trigger, 
-create synonym, create view, create table, create session, 
-create sequence, create procedure to pc_venta;
+--@Descripción: Creación de tablespaces para cada pdb.
 
 
-prompt =====================================
-prompt Creando usuario en petcare_rh
-prompt =====================================
-prompt Conectándose a pc_rh como usuario SYS
-connect sys/system@pc_rh as sysdba
+--@Autor: Jorge Francisco Pereda Ceballos/ Brandon Cervantes Rubí / Alexis Isaac Alcocer Diaz
+--@Fecha creación: 03/06/2024
+--@Descripción: Creación de tablespaces para cada pdb.
 
-@p-crea-usuario.sql
+whenever sqlerror exit rollback;
+
+Prompt Creando usuario para el modulo de VENTA
+Prompt conectando a petcare_pdb_venta
+alter session set container=petcare_pdb_venta;
+startup
+
+drop user pet_c_venta cascade;
+create user pet_c_venta identified by venta123
+  default tablespace venta_ts
+  temporary tablespace venta_temp_ts
+  quota unlimited on venta_idxs_ts
+  ;
+
+grant create session, create table, create any index to pet_c_venta;
+grant sysbackup to pet_c_venta;
+
+connect pet_c_venta/venta123
+
+--drop user backup_usr cascade;
+--create user backup_usr identified by backup123 
+--  quota unlimited on users;
+
+grant sysbackup to backup_usr;
+
+Prompt Creando usuario para el modulo de Servicio 
+Prompt conectando a petcare_pdb_servicio
+alter session set container=petcare_pdb_servicio;
+startup
+
+drop user pet_c_servicio cascade;
+create user pet_c_servicio identified by servicio123 
+  default tablespace servicio_ts
+  temporary tablespace servicio_temp_ts
+  quota unlimited on servicio_idxs_ts
+  quota unlimited on servicio_lob_ts;
+
+grant create session, create table, create any index to pet_c_servicio;
+
+Prompt Creando usuario para el modulo de RH 
+Prompt conectando a petcare_pdb_rh
+alter session set container=petcare_pdb_rh;
+startup
+
+drop user pet_c_rh cascade;
+create user pet_c_rh identified by rh123 
+  default tablespace empleado_ts
+  temporary tablespace empleado_temp_ts
+  quota unlimited on empleado_idxs_ts
+  quota unlimited on empleado_lob_ts;
+
+grant create session, create table, create any index to pet_c_rh;
 
 
-DECLARE
-  v_tablespaces dbms_sql.varchar2_table;
-BEGIN
-  v_tablespaces(1) := 'EMPLEADO_TS';
-  v_tablespaces(2) := 'EMPLEADO_IDXS_TS';
-  v_tablespaces(3) := 'EMPLEADO_TEMP_TS';
-  v_tablespaces(4) := 'EMPLEADO_LOB_TS';
- 
-  exec p_crea_usuario('pc_rh', v_tablespaces);
-END;
-/
+
+-- Para eliminar algun tablespace  
+-- drop tablespace venta_ts including contents and datafiles;
 
 
-prompt Asignando privilegios a netmax_bdd
-grant create type,create any directory,create database link,create trigger, 
-create synonym, create view, create table, create session, 
-create sequence, create procedure to pc_venta;
 
-
-prompt =====================================
-prompt Creando usuario en pc_servicio
-prompt =====================================
-prompt Conectándose a pc_servicio como usuario SYS
-connect sys/system@pc_servicio as sysdba
-
-@p-crea-usuario.sql
-
-
-DECLARE
-  v_tablespaces dbms_sql.varchar2_table;
-BEGIN
-  v_tablespaces(1) := 'SERVICIO_TS';
-  v_tablespaces(2) := 'SERVICIO_IDXS_TS';
-  v_tablespaces(3) := 'SERVICIO_TEMP_TS';
-   v_tablespaces(3) := 'SERVICIO_LOB_TS';
-
-  exec p_crea_usuario('pc_servicio', v_tablespaces);
-END;
-/
-
-
-prompt Asignando privilegios a pc_servicio
-grant create type,create any directory,create database link,create trigger, 
-create synonym, create view, create table, create session, 
-create sequence, create procedure to pc_servicio;
-
-prompt Listo!
-
-  --CREAR PDB BASE 
-  --ASIGNAR EN DEST +ASM
-  --DEWNTRO DE LA PDB SE ASIGNA EN NUEVO GRUPO 
