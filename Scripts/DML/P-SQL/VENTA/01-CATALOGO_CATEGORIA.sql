@@ -1,3 +1,4 @@
+connect sys/system as sysdba
 alter session set container=petcare_pdb_venta;
 connect pet_c_venta/venta123@PDB_VENTA
 

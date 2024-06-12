@@ -1,3 +1,7 @@
+connect sys/system as sysdba
+alter session set container=petcare_pdb_venta;
+connect pet_c_venta/venta123@PDB_VENTA
+
 insert into CATALOGO_PRODUCTO (CATALOGO_PRODUCTO_ID, NOMBRE, PRECIO, DESCRIPCION) values (1, 'Owl, white-browed', 1924, 'Drainage of Left Internal Mammary Artery with Drainage Device, Open Approach');
 insert into CATALOGO_PRODUCTO (CATALOGO_PRODUCTO_ID, NOMBRE, PRECIO, DESCRIPCION) values (2, 'Heron, giant', 3680, 'Planar Nuclear Medicine Imaging of Left Upper Extremity using Other Radionuclide');
 insert into CATALOGO_PRODUCTO (CATALOGO_PRODUCTO_ID, NOMBRE, PRECIO, DESCRIPCION) values (3, 'Snake-necked turtle', 536, 'Occlusion of Left Foot Artery, Open Approach');
