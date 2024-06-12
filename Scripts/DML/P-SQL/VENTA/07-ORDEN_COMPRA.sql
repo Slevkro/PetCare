@@ -1,6 +1,7 @@
 connect sys/system as sysdba
 alter session set container=petcare_pdb_venta;
 connect pet_c_venta/venta123@PDB_VENTA
+whenever sqlerror exit rollback;
 
 insert into ORDEN_COMPRA (ORDEN_COMPRA_ID, FOLIO, FECHA_SOLICITUD, IMPORTE_TOTAL, IMPORTE_SERVICIO, IMPORTE_PRODUCTOS, CLIENTE_ID, EMPLEADO_ID) values (1, 'SD90PN98VH', to_date('07/05/2024', 'dd/mm/yyyy'), 6275.28, 1098.69, 2353.43, 381, 191.73);
 insert into ORDEN_COMPRA (ORDEN_COMPRA_ID, FOLIO, FECHA_SOLICITUD, IMPORTE_TOTAL, IMPORTE_SERVICIO, IMPORTE_PRODUCTOS, CLIENTE_ID, EMPLEADO_ID) values (2, 'QW68YM42JR', to_date('18/02/2024', 'dd/mm/yyyy'), 1253.07, 1248.64, 4588.23, 162, 75.9);

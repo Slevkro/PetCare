@@ -1,6 +1,7 @@
 connect sys/system as sysdba
 alter session set container=petcare_pdb_venta;
 connect pet_c_venta/venta123@PDB_VENTA
+whenever sqlerror exit rollback;
 
 insert into CATALOGO_PRODUCTO (CATALOGO_PRODUCTO_ID, NOMBRE, PRECIO, DESCRIPCION) values (1, 'Owl, white-browed', 1924, 'Drainage of Left Internal Mammary Artery with Drainage Device, Open Approach');
 insert into CATALOGO_PRODUCTO (CATALOGO_PRODUCTO_ID, NOMBRE, PRECIO, DESCRIPCION) values (2, 'Heron, giant', 3680, 'Planar Nuclear Medicine Imaging of Left Upper Extremity using Other Radionuclide');

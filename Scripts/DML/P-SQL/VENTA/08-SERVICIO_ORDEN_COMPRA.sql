@@ -1,6 +1,7 @@
 connect sys/system as sysdba
 alter session set container=petcare_pdb_venta;
 connect pet_c_venta/venta123@PDB_VENTA
+whenever sqlerror exit rollback;
 
 insert into SERVICIO_ORDEN_COMPRA (SERVICIO_ORDEN_COMPRA_ID, SERVICIO_ID, ORDEN_COMPRA_ID) values (1, 248, 330);
 insert into SERVICIO_ORDEN_COMPRA (SERVICIO_ORDEN_COMPRA_ID, SERVICIO_ID, ORDEN_COMPRA_ID) values (2, 776, 636);

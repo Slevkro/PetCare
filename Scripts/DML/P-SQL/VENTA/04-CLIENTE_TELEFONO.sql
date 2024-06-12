@@ -1,6 +1,7 @@
 connect sys/system as sysdba
 alter session set container=petcare_pdb_venta;
 connect pet_c_venta/venta123@PDB_VENTA
+whenever sqlerror exit rollback;
 
 insert into CLIENTE_TELEFONO (CLIENTE_TELEFONO_ID, TELEFONO, CLIENTE_ID) values (1, '9906153729', 816);
 insert into CLIENTE_TELEFONO (CLIENTE_TELEFONO_ID, TELEFONO, CLIENTE_ID) values (2, '2040748845', 143);

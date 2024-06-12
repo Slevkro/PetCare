@@ -2,6 +2,7 @@ connect sys/system as sysdba
 alter session set container=petcare_pdb_venta;
 connect pet_c_venta/venta123@PDB_VENTA
 whenever sqlerror exit rollback;
+
 insert into CLIENTE (CLIENTE_ID, NOMBRE, AP_MATERNO, AP_PATERNO, DOMICILIO, CORREO, FECHA_CUMPLEANIOS) values (1, 'Alfi', 'Kohneke', 'Pragnell', '9482 Algoma Place', 'apragnell0@independent.co.uk', to_date('27/11/2023', 'dd/mm/yyyy'));
 insert into CLIENTE (CLIENTE_ID, NOMBRE, AP_MATERNO, AP_PATERNO, DOMICILIO, CORREO, FECHA_CUMPLEANIOS) values (2, 'Ingamar', 'Kilian', 'Aberdalgy', '074 Darwin Circle', 'iaberdalgy1@ebay.com', to_date('07/05/2024', 'dd/mm/yyyy'));
 insert into CLIENTE (CLIENTE_ID, NOMBRE, AP_MATERNO, AP_PATERNO, DOMICILIO, CORREO, FECHA_CUMPLEANIOS) values (3, 'Igor', 'Anwyl', 'O''Neary', '2 Calypso Lane', 'ioneary2@addtoany.com', to_date('21/08/2023', 'dd/mm/yyyy'));
