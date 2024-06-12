@@ -4,8 +4,9 @@
 
 Prompt Creando TABLAS para el modulo de RH
 Prompt conectando a petcare_pdb_rh
+connect sys/system as sysdba
 alter session set container=petcare_pdb_rh;
-
+connect pet_c_rh/rh123@PDB_RH
 -- 
 -- TABLE: CATALOGO_CURSO 
 --

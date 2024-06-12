@@ -4,7 +4,7 @@
 --@Descripción: Creación de tablespaces para cada pdb.
 
 whenever sqlerror exit rollback;
-
+connect sys/system as sysdba
 
 Prompt conectando a petcare_pdb_venta
 alter session set container=petcare_pdb_venta;

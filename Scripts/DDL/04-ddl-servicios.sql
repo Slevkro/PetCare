@@ -4,7 +4,9 @@
 
 Prompt Creando TABLAS para el modulo de SERVICIO
 Prompt conectando a petcare_pdb_servicio
+connect sys/system as sysdba
 alter session set container=petcare_pdb_servicio;
+connect pet_c_servicio/servicio123@PDB_SERVICIO
 
 --------------------- TABLAS DE SERVICIO ----------------------------
 

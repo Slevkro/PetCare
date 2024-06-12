@@ -1,10 +1,10 @@
 
 
 Prompt iniciar petcare
-!sh s-030-start-cdb.sh petcare02 system
+!sh s-030-start-cdb.sh petcare03 system
 
 Prompt conectando petcare
-connect sys/system@petcare02 as sysdba
+connect sys/system@petcare03 as sysdba
 
 Prompt crear PDB petcare_pdb_venta
 Prompt Configurando OMF

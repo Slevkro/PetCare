@@ -7,10 +7,11 @@
 --@Fecha creación: 03/06/2024
 --@Descripción: Creación de tablespaces para cada pdb.
 
-whenever sqlerror exit rollback;
+--whenever sqlerror exit rollback;
 
 Prompt Creando usuario para el modulo de VENTA
 Prompt conectando a petcare_pdb_venta
+connect sys/system as sysdba
 alter session set container=petcare_pdb_venta;
 --startup
 
@@ -19,6 +20,7 @@ create user pet_c_venta identified by venta123
   default tablespace venta_ts
   temporary tablespace venta_temp_ts
   quota unlimited on venta_idxs_ts
+  quota unlimited on venta_ts
   ;
 
 grant create session, create table, create any index to pet_c_venta;
@@ -30,6 +32,7 @@ grant sysbackup to pet_c_venta;
 
 Prompt Creando usuario para el modulo de Servicio 
 Prompt conectando a petcare_pdb_servicio
+connect sys/system as sysdba
 alter session set container=petcare_pdb_servicio;
 --startup
 
@@ -38,13 +41,16 @@ create user pet_c_servicio identified by servicio123
   default tablespace servicio_ts
   temporary tablespace servicio_temp_ts
   quota unlimited on servicio_idxs_ts
-  quota unlimited on servicio_lob_ts;
+  quota unlimited on servicio_lob_ts
+  quota unlimited on servicio_ts;
+
 
 grant create session, create table, create any index to pet_c_servicio;
 grant sysbackup to pet_c_servicio;
 
 Prompt Creando usuario para el modulo de RH 
 Prompt conectando a petcare_pdb_rh
+connect sys/system as sysdba
 alter session set container=petcare_pdb_rh;
 --startup
 
@@ -53,7 +59,8 @@ create user pet_c_rh identified by rh123
   default tablespace empleado_ts
   temporary tablespace empleado_temp_ts
   quota unlimited on empleado_idxs_ts
-  quota unlimited on empleado_lob_ts;
+  quota unlimited on empleado_lob_ts
+  quota unlimited on empleado_ts;
 
 grant create session, create table, create any index to pet_c_rh;
 grant sysbackup to pet_c_rh;

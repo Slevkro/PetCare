@@ -4,7 +4,9 @@
 
 Prompt Creando TABLAS para el modulo de VENTA
 Prompt conectando a petcare_pdb_venta
+connect sys/system as sysdba
 alter session set container=petcare_pdb_venta;
+connect pet_c_venta/venta123@PDB_VENTA
 
 CREATE TABLE PET_C_VENTA.CATALOGO_CATEGORIA(
     CATALOGO_CATEGORIA_ID    NUMBER(10, 0)    NOT NULL,
