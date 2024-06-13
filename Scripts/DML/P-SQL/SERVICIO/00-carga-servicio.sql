@@ -1,0 +1,10 @@
+start 01-CATALOGO_DIAGNOSTICO.sql
+start 02-SERVICIO.sql
+start 03-GALERIA_ESTETICA.sql
+start 04-GALERIA_MASCOTA.sql
+start 05-MASCOTA.sql
+start 06-ESTETICA.sql
+start 07-MEDICO.sql
+start 08-PASEO.sql
+start 09-PASEO_MASCOTA.sql
+start 10-UBICACION_EMPLEADO.sql

@@ -1,3 +1,8 @@
+connect sys/system as sysdba
+alter session set container=petcare_pdb_servicio;
+connect pet_c_servicio/servicio123@PDB_SERVICIO
+whenever sqlerror exit rollback;
+
 insert into CATALOGO_DIAGNOSTICO (catalogo_diagnostico_id, clave, nivel_gravedad, costo, nombre, descripcion) values (1, '1WP2NE7EC2', 1, 1783.29, 'BUPROPION HYDROCHLORIDE', 'Accidental puncture and laceration of an endocrine system organ or structure during an endocrine system procedure');
 insert into CATALOGO_DIAGNOSTICO (catalogo_diagnostico_id, clave, nivel_gravedad, costo, nombre, descripcion) values (2, '5T65DG4WR0', 2, 777.42, 'Sulfamethoxazole and Trimethoprim', 'Nondisplaced apophyseal fracture of right femur, subsequent encounter for open fracture type I or II with nonunion');
 insert into CATALOGO_DIAGNOSTICO (catalogo_diagnostico_id, clave, nivel_gravedad, costo, nombre, descripcion) values (3, '6P33V05NX9', 2, 944.79, 'Restless Leg', 'Dislocation of distal interphalangeal joint of right index finger, initial encounter');

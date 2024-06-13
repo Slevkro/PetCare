@@ -1,3 +1,8 @@
+connect sys/system as sysdba
+alter session set container=petcare_pdb_servicio;
+connect pet_c_servicio/servicio123@PDB_SERVICIO
+whenever sqlerror exit rollback;
+
 insert into SERVICIO (servicio_id, es_medico, es_estetica, es_paseo) values (1, 1, 0, 1);
 insert into SERVICIO (servicio_id, es_medico, es_estetica, es_paseo) values (2, 0, 0, 0);
 insert into SERVICIO (servicio_id, es_medico, es_estetica, es_paseo) values (3, 0, 1, 1);
