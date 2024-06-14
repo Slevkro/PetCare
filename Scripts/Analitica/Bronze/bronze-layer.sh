@@ -11,7 +11,7 @@ find . -type f -name "*.csv" -exec rm -f {} +
 
 PROJECT_ID="weighty-legend-423622-k1"
 BUCKET_NAME="bronze-us-central-1"
-url="https://drive.usercontent.google.com/download?id=1Qn0GPacCqMNOJx6UeQSswkSWTS3c_YIi&export=download&authuser=0&confirm=t&uuid=a3ce78ca-06e3-48ed-af84-f697f5670471&at=APZUnTXbFO18edaU5tdWfKEy5jBa:1718169656783"
+url="https://drive.usercontent.google.com/download?id=1yGg5T0i9DRQ24xN6AQQrC4BouIRIcIrQ&export=download&authuser=0&confirm=t&uuid=9a553b8f-ac65-4e64-a8fb-39ace93f380f&at=APZUnTXfp9oZzxv52AVAPlxl2PWe:1718345012543"
 output_filename="downloaded_data.zip"
 
 # Check if the bucket exists

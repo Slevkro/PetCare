@@ -4,70 +4,135 @@
 
 #!/bin/bash
 
-# --- Configuración ---
 PROJECT_ID="weighty-legend-423622-k1"
 DATASET_ID="gold"
+DATASET_SILVER_ID="silver"
 TABLE_NAME="orden_compra"  
 LOCATION="US"  
 BUCKET_NAME="bronze-us-central-1"
 
-# --- Crear Dataset ---
 echo "Creating dataset: $PROJECT_ID.$DATASET_ID"
 bq --location=$LOCATION mk --dataset \
     --description "Gold layer for star model" \
     $PROJECT_ID:$DATASET_ID
 
-# --- 2. Crear Tablas Fact y Dimension (vacías) ---
-echo "Creating Fact abd Dimensions tables"
+echo "Creating Fact and Dimensions tables"
 
-# Ejemplo: Reemplaza con tus nombres de tablas y esquemas
-bq --location=$LOCATION mk --table \
-    --schema "id:INTEGER,fecha:DATE,cliente_id:INTEGER,producto_id:INTEGER,ventas:FLOAT" \
-    $PROJECT_ID:$DATASET_GOLD.tabla_fact_ventas
+bq query --nouse_legacy_sql \
+  'CREATE TABLE `'"$PROJECT_ID"'.'"$DATASET_ID"'.fact_ventas`( 
+    `VETERINARIA_ID` INT64 NOT NULL,
+    `EMPLEADO_ID` INT64 NOT NULL,
+    `COMISION_VENTA` FLOAT64 NOT NULL,
+    `FECHA_VENTA` DATE NOT NULL,
+    `TRIMESTRE` INT64 NOT NULL,
+    `SEMESTRE` STRING NOT NULL,
+    `ANIO` INT64 NOT NULL,
+    `IMPORTE_TOTAL` FLOAT64 NOT NULL,
+    `IMPORTE_SERVICIO` FLOAT64 NOT NULL,
+    `IMPORTE_PRODUCTOS` FLOAT64 NOT NULL,
+  )'
 
-bq --location=$LOCATION mk --table \
-    --schema "cliente_id:INTEGER,nombre:STRING,ciudad:STRING" \
-    $PROJECT_ID:$DATASET_GOLD.dim_clientes
 
-bq --location=$LOCATION mk --table \
-    --schema "producto_id:INTEGER,nombre:STRING,categoria:STRING" \
-    $PROJECT_ID:$DATASET_GOLD.dim_productos
+bq query --nouse_legacy_sql \
+  'CREATE TABLE `'"$PROJECT_ID"'.'"$DATASET_ID"'.dim_inventario_producto`( 
+    `INVENTARIO_PRODUCTO_ID` INT64 NOT NULL,
+    `ORDEN_COMPRA_ID` INT64 NOT NULL,
+    `NUM_INVENTARIO` INT64 NOT NULL,
+    `FECHA` DATE NOT NULL,
+    `VETERINARIA_ID` INT64 NOT NULL,
+    `CATALOGO_PRODUCTO_ID` INT64 NOT NULL
+  )'
 
-# --- 3. Cargar datos en Tablas Dimension ---
+
+bq query --nouse_legacy_sql \
+  'CREATE TABLE `'"$PROJECT_ID"'.'"$DATASET_ID"'.dim_tiempo`( 
+    `TIEMPO_ID` INT64 NOT NULL,  
+    `FECHA` DATE NOT NULL,
+    `SEMESTRE` STRING NOT NULL,
+    `ANIO` INT64 NOT NULL,
+    `TRIMESTRE` INT64 NOT NULL
+  )'
+
+
+bq query --nouse_legacy_sql \
+  'CREATE TABLE `'"$PROJECT_ID"'.'"$DATASET_ID"'.dim_orden_compra`( 
+    `ORDEN_COMPRA_ID` INT64 NOT NULL,
+    `FOLIO` STRING NOT NULL,
+    `FECHA_SOLICITUD` DATE NOT NULL, 
+    `IMPORTE_TOTAL` FLOAT64 NOT NULL,
+    `IMPORTE_SERVICIO` FLOAT64 NOT NULL,
+    `IMPORTE_PRODUCTOS` FLOAT64 NOT NULL, 
+    `EMPLEADO_ID` INT64 NOT NULL
+  )'
+
+bq query --nouse_legacy_sql \
+  'CREATE TABLE `'"$PROJECT_ID"'.'"$DATASET_ID"'.dim_empleado`( 
+    `EMPLEADO_ID` INT64 NOT NULL,
+    `COMISION_TOTAL` FLOAT64 NOT NULL
+  )'
+
+
 echo "Loading data in  Dimension tables..."
 
-# Ejemplo: Reemplaza con tus consultas y nombres de tablas
-bq --location=$LOCATION query --use_legacy_sql=false --destination_table=$PROJECT_ID:$DATASET_GOLD.dim_clientes << EOF
-SELECT DISTINCT
-    cliente_id,
-    nombre,
-    ciudad
-FROM
-    `$PROJECT_ID.silver.tabla_clientes_aggregated` 
-EOF
 
-bq --location=$LOCATION query --use_legacy_sql=false --destination_table=$PROJECT_ID:$DATASET_GOLD.dim_productos << EOF
-SELECT DISTINCT
-    producto_id,
-    nombre,
-    categoria
-FROM
-    `$PROJECT_ID.silver.tabla_productos_aggregated`
-EOF
+bq --location=$LOCATION query --use_legacy_sql=false \
+    --destination_table=$PROJECT_ID:$DATASET_ID.dim_inventario_producto \
+    'SELECT * FROM `'"$PROJECT_ID"'.'"$DATASET_SILVER_ID"'.inventario_producto_refined`'
 
-# --- 4. Cargar datos en Tablas Fact ---
+bq --location=$LOCATION query --use_legacy_sql=false \
+    --destination_table=$PROJECT_ID:$DATASET_ID.dim_orden_compra \
+    'SELECT orden_compra_id, folio, fecha_solicitud,importe_total,importe_servicio, importe_productos, empleado_id 
+    FROM `'"$PROJECT_ID"'.'"$DATASET_SILVER_ID"'.orden_compra_refined`'
+
+bq --location=$LOCATION query --use_legacy_sql=false \
+    'CREATE TEMP FUNCTION GetSemestre(fecha DATE) AS (
+      CASE 
+        WHEN CAST(FORMAT_DATE("%m", fecha) AS INT64) BETWEEN 1 AND 6 THEN "1"
+        ELSE "2"
+      END
+    );
+
+    CREATE TEMP FUNCTION GetTrimestre(fecha DATE) AS (
+      CASE
+        WHEN CAST(FORMAT_DATE("%m", fecha) AS INT64) BETWEEN 1 AND 3 THEN 1
+        WHEN CAST(FORMAT_DATE("%m", fecha) AS INT64) BETWEEN 4 AND 6 THEN 2
+        WHEN CAST(FORMAT_DATE("%m", fecha) AS INT64) BETWEEN 7 AND 9 THEN 3
+        ELSE 4
+      END 
+    );
+    
+    INSERT INTO `'"$PROJECT_ID"'.'"$DATASET_ID"'.dim_tiempo`
+    SELECT 
+      DISTINCT
+      OC.ORDEN_COMPRA_ID,
+      OC.FECHA_SOLICITUD,
+      GetSemestre(OC.FECHA_SOLICITUD) AS SEMESTRE,
+      EXTRACT(YEAR FROM OC.FECHA_SOLICITUD) AS ANIO,
+      GetTrimestre(OC.FECHA_SOLICITUD) AS TRIMESTRE
+    FROM 
+      `'"$PROJECT_ID"'.'"$DATASET_SILVER_ID"'.orden_compra_refined` AS OC;'
+
+
+bq --location=$LOCATION query --use_legacy_sql=false \
+    --destination_table=$PROJECT_ID:$DATASET_ID.dim_empleado \
+    'SELECT DISTINCT EMPLEADO_ID, (0.05 * IMPORTE_TOTAL) AS COMISION_TOTAL FROM `'"$PROJECT_ID"'.'"$DATASET_SILVER_ID"'.orden_compra_refined`'
+
 echo "Loading data in Fact table..."
 
-# Ejemplo: Reemplaza con tus consultas y nombres de tablas
-bq --location=$LOCATION query --use_legacy_sql=false --destination_table=$PROJECT_ID:$DATASET_GOLD.tabla_fact_ventas << EOF
-SELECT
-    venta_id,
-    fecha_venta,
-    cliente_id,
-    producto_id,
-    total_venta
-FROM
-    `$PROJECT_ID.silver.tabla_ventas_aggregated`
-EOF
+
+bq --location=$LOCATION query --use_legacy_sql=false \
+    --destination_table=$PROJECT_ID:$DATASET_ID.fact_ventas \
+    'SELECT E.EMPLEADO_ID, E.COMISION_TOTAL AS COMISION_VENTA, 
+     IP.VETERINARIA_ID, T.FECHA AS FECHA_VENTA,
+     T.TRIMESTRE, T.ANIO, T.SEMESTRE, OC.IMPORTE_TOTAL, OC.IMPORTE_SERVICIO, OC.IMPORTE_PRODUCTOS 
+     FROM `'"$PROJECT_ID"'.'"$DATASET_ID"'.dim_empleado` AS E
+     JOIN `'"$PROJECT_ID"'.'"$DATASET_ID"'.dim_orden_compra` AS OC  
+       ON E.EMPLEADO_ID = OC.EMPLEADO_ID
+     JOIN `'"$PROJECT_ID"'.'"$DATASET_ID"'.dim_tiempo` AS T 
+       ON T.TIEMPO_ID = OC.ORDEN_COMPRA_ID
+     JOIN `'"$PROJECT_ID"'.'"$DATASET_ID"'.dim_inventario_producto` AS IP 
+       ON IP.ORDEN_COMPRA_ID = OC.ORDEN_COMPRA_ID;'
+
 
 echo "Gold layer executed succesfully!"
+
