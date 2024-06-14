@@ -5,14 +5,12 @@
 
 #!/bin/bash
 
---- Configuración ---
 PROJECT_ID="weighty-legend-423622-k1"
-DATASET_ID="silver"
-TABLE_NAME="orden_compra"  
+DATASET_ID="silver" 
 LOCATION="US"  
 BUCKET_NAME="bronze-us-central-1"
 
-# --- Crear Dataset ---
+# -- Crear Dataset ---
 echo "Creating dataset: $PROJECT_ID.$DATASET_ID"
 bq --location=$LOCATION mk --dataset \
     --description "Silver layer for analytics" \
@@ -21,11 +19,7 @@ bq --location=$LOCATION mk --dataset \
 # --- Crear Tabla Staging ---
 TABLES=(
     "orden_compra"
-    "servicio_orden_compra"
     "inventario_producto"
-    "catalogo_categoria"
-    "catalogo_producto"
-    "producto_categoria"
 )
 
 
@@ -46,11 +40,7 @@ done
 echo "Creating refined views with cleaned data"
 
 ./Views/inventario-producto-view.sh
-./Views/catalogo-producto-view.sh
-./Views/catalogo-categoria-view.sh
 ./Views/orden-compra-view.sh
-./Views/producto-categoria-view.sh
-./Views/servicio-orden-compra-view.sh
 
 
 echo "Silver layer executed succesfully."
